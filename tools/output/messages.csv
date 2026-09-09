@@ -1,0 +1,1047 @@
+key,en,zh-hk
+layout.login,Login,登入
+layout.logout,Logout,登出
+layout.profile,Profile,個人資料
+layout.ok,OK,確定
+layout.cancel,Cancel,取消
+layout.enter_mission,Enter Mission,進入任務
+layout.back,Back,返回
+layout.success,Success,成功
+orientation.rotate_device,Please rotate your device to portrait mode,請將手機轉為直立模式
+orientation.landscape_not_supported,This website does not support landscape mode,此網站不支援橫屏模式
+menu.home,Home,主頁
+menu.events,Events,活動日程
+menu.missions,Missions,任務列表
+menu.wellbeing,Wellbeing,健康評估
+menu.rewards,Rewards,任務獎賞
+menu.about,330 Info,330資訊
+menu.contact,Contact Us,聯絡我們
+menu.gps_guide,GPS Guide,GPS 設定指南
+menu.mission_records,Mission Records,活動記錄
+menu.qa,Q&A,常見問題
+menu.terms_and_conditions,Terms and Conditions,條款及細則
+menu.privacy_policy,Privacy Policy Statement & Disclaimer,個人資料私隱政策聲明及免責聲明
+pagination.previous,Previous,上一頁
+pagination.next,Next,下一頁
+pagination.page,Page,頁
+home.show_all_missions,Show all missions,查看所有任務
+home.find_nearby,Find nearby missions,查看附近的任務
+map.no_points,No mission locations available,沒有可用的任務地點
+map.no_geocoded_points,No valid location data found,找不到有效的位置數據
+map.no_nearby_points,No nearby missions found,附近沒有找到任務
+terms.title,Terms and Conditions,條款及細則
+terms.content,"Please read the following terms and conditions (collectively, the ""Terms"") carefully before logging into or using https://330day2026.nlpra.org.hk (the ""Website"") and/or any website, mobile page, mission platform, Augmented Reality (AR) function, Global Positioning System (GPS) positioning function, digital interactive content, and any online or offline activities related to 330 Day 2026 ""Sense · To Live"" (collectively, the ""Services"" or the ""Event"").
+
+When you:
+(a) register as a member or user of the Website or the Event; or
+(b) register to use the Services; or
+(c) participate in any mission, redemption, lucky draw or interactive content of the Event; or
+(d) participate in any online or offline arrangements related to the Event; or
+(e) (where applicable) purchase products or enroll in workshops/activities;
+you represent that you have read, understood and agreed to comply with these Terms and to be bound by them.
+
+The Event is organized and/or managed by New Life Psychiatric Rehabilitation Association (the ""Association""). The Association reserves the right to amend any part of these Terms at any time. The revised version shall be published on the Website or relevant pages and shall take effect immediately upon publication.
+
+Chapter 1 – Definitions and Scope of Application
+1.1 ""Website"" means https://330day2026.nlpra.org.hk and any other domains, pages or sub-pages designated by the Association from time to time.
+1.2 ""Services"" means any content, functions and services provided by the Association through the Website, mobile pages, mission platforms or other media, including but not limited to text, images, audio, video, interactive content, data, information, programs, software, tools, server services, AR functions, GPS positioning functions, mission systems and related support.
+1.3 ""Event"" refers to the overall promotional campaign of 330 Day 2026 ""Sense · To Live"", including but not limited to city missions, online missions, offline booths or activities, venue missions (such as shopping malls / MTR stations / partner stores), redemption arrangements, lucky draw arrangements, promotional interactions and any ancillary activities (if any).
+1.4 ""Content"" means any material obtainable through the Services or the Website, including but not limited to static images, audio recordings, moving images, videos, text, articles, editorial works, data, information and other materials.
+1.5 ""User / Participant"" means any person who browses, logs in, registers, uses the Services or participates in the Event.
+1.6 ""Partner"" / ""Third Party"" means any party other than the Association, including but not limited to venue providers (such as shopping malls, MTR stations, etc.), brand partners, sponsors, suppliers, technical platform providers, media platforms, payment service providers, etc.
+
+Chapter 2 – Nature of the Event and Participation Principles
+2.1 The Event is a public mental health promotion initiative aimed at encouraging participants to practice ""330 Micro-Breaks"" through five-sense awareness, cultivating daily awareness and self-care habits.
+2.2 The Event does not constitute medical, psychological treatment or any professional clinical service. The content provided by the Association is for general public education and promotional purposes only and does not constitute any medical or psychological professional advice or diagnosis. Participants are advised to seek professional medical or psychological advice from qualified practitioners if needed.
+2.3 Participants must ensure on their own that their physical and mental conditions are suitable for participating in the Event and related missions. If you feel unwell during participation (including but not limited to dizziness, palpitations, emotional fluctuation or other discomfort), you should immediately stop participating and seek appropriate assistance as necessary.
+2.4 Participation in the Event and its related activities is entirely voluntary and at participants' own risk. Participants may choose to withdraw or discontinue participation at any time without penalty or prior notice. No element of the Event shall be construed as a mandatory requirement for any reward, service, or benefit.
+
+Chapter 3 – User Obligations, Usage Restrictions and Code of Conduct
+3.1 You may browse and use the Services for non-commercial and personal purposes through devices that you own or control, provided that you must retain all copyright or other intellectual property notices intact and comply with reasonable instructions issued by the Association from time to time.
+3.2 Without prior written consent from the Association, you shall not (nor cause or permit any person to):
+(a) Use the programs and materials provided by the Website / Services for any unlawful purpose, or engage in any act contrary to these Terms;
+(b) Use the Services on any device not owned or controlled by you, or allow others to use the Services improperly;
+(c) Pre-download the Services onto any device and promote, sell, circulate or publish such devices in the market;
+(d) Imitate, copy, reproduce, reverse engineer, sell, resell any part of the Services or use them for any purpose;
+(e) Modify, print, imitate, reproduce, upload, post, distribute, broadcast, download, store, transmit, publicly display or perform, adapt or otherwise alter the materials of the Services (including code, software or applications) for any other purpose;
+(f) Modify, adapt, digitize, encode, reformat, compress, intercept, interfere with, tamper with or manipulate the signal of the Services or Content (including device output signals) in any manner;
+(g) Re-license, translate, sell, reverse engineer, decompile or disassemble any part of the Services, software and/or Content;
+(h) Hack, forcibly access or attempt to access any part, software, Content or data area stored in the Association's or any third party's server;
+(i) Insert any software or materials containing viruses, worms, time bombs, Trojan horses or other harmful or destructive components;
+(j) Interfere with or disrupt the Services, servers or networks connected to the Services, or restrict/prevent others from using the Services;
+(k) Forge headers or manipulate identifying tags to disguise the origin of any Content;
+(l) Remove any copyright, trademark or other proprietary rights notices;
+(m) Collect data of other users of the Services;
+(n) Download the Services, Content or programs to and/or use them on any tool and promote, sell, circulate or publish such tool, or use them for any commercial purpose or objective.
+3.3 You agree that when using the Services, your usage shall not infringe, restrict or interfere with any third party's use and enjoyment of the Services; nor shall you engage in any conduct that is harassing, threatening, violent, immoral, pornographic or defamatory, or participate in any unlawful act that causes others to feel harassed, uncomfortable or inconvenienced, or that disrupts normal conversations, communications and/or interaction patterns.
+
+Chapter 4 – Event Safety Guidelines
+4.1 When participating in any mission or offline activity of the Event, participants must prioritize public safety and comply with the laws of Hong Kong, public order and venue rules.
+4.2 Participants must not obstruct any passageways, entrances/exits, escalators, staircases, emergency exits or any fire/emergency access areas; and must not run, chase or engage in any behavior that may endanger others.
+4.3 Participants must not climb, cross over, lean on or touch any public facilities or venue equipment without authorization; must not damage public property, pollute the environment or affect the normal operation of the venue.
+4.4 When taking photos, recording videos or documenting missions, participants must respect others' privacy and obtain consent where necessary; must not photograph restricted areas or obstruct others' passage.
+4.5 If any venue staff, Association staff or security personnel consider that a participant's behavior may affect safety or order, they have the right to request the participant to stop, leave or terminate participation immediately, and the participant must comply promptly.
+4.6 The Association, its staff, partners, and event affiliates shall not be liable (whether in contract, tort or otherwise) for any injury, illness, emotional distress, loss, damage or claim arising from or in connection with participation in the Event, to the maximum extent permitted by law.
+4.7 In no event shall the Association be responsible for any indirect, incidental, special, or consequential loss arising from participation in or in connection with the Event.
+
+Chapter 5 – Public Safety and Crowd Management
+5.1 When participating in any mission, participants must comply with the laws of Hong Kong and the relevant venue rules, and must not engage in any conduct that obstructs passageways, affects the safety of others, climbs facilities, runs or disrupts public order.
+5.2 In the event of excessive crowd flow, congregation for check-ins, queue congestion, unforeseen incidents, or any situation that may affect public safety, the Association shall have the right to adjust the event arrangements immediately, including but not limited to suspending missions, changing mission locations, limiting the number of participants, adjusting redemption arrangements or terminating the relevant activities.
+5.3 Public safety shall take precedence over mission completion, points calculation and any redemption arrangements. Participants shall not make any claim, compensation or other demand against the Association as a result of such adjustments.
+
+Chapter 6 – AR Content and GPS Positioning Terms
+6.1 Certain functions of the Event may involve the use of Augmented Reality (AR), location-based missions, photo or filter interactions, and/or GPS verification. Participants acknowledge and agree that such features rely on various third-party technologies which are beyond the control of the Association.
+6.2 Participants are responsible for ensuring that their devices are suitable, adequately charged, and safely used during participation.
+6.3 When using AR or operating mobile devices, participants must remain aware of their surroundings and personal safety, and must not operate devices in any potentially dangerous locations, including but not limited to MTR platform edges, escalators, staircases, roads or vehicular traffic areas.
+6.4 AR content, filter effects and related interactive content are for personal and non-commercial use only. Unless otherwise expressly agreed in writing by the Association, participants shall not download, modify, adapt, sell, license, republish or use them in any form for commercial purposes.
+6.5 Any risks, accidents, property losses or device damage arising from the use of AR/GPS functions shall be borne solely by the participants.
+6.6 Participants understand that: GPS signals may be inaccurate or unavailable in certain environments (such as tunnels, underground areas, or high-rise urban zones); AR content or filters may display differently or fail to operate depending on the device model, system version, network connection, or environmental lighting; mission progress, stamp records, or positioning accuracy may be affected by server conditions, signal strength, or external interference.
+
+Chapter 7 – Electronic Systems, Technical Limitations and Data Risks
+7.1 The operation of the Event and Services involves various electronic and digital technologies, including but not limited to third-party servers, mobile networks, GPS positioning systems, AR platforms, browser compatibility, operating system differences, device hardware variations, network provider routing, third-party API services and any related technologies.
+7.2 Participants understand and agree that the Association cannot guarantee that the above technologies will operate stably at all times, nor can it guarantee full compatibility with all functions of the Event.
+7.3 The Association does not guarantee that: (a) the system will operate without interruption, delay or malfunction; (b) mission records will be synchronized or uploaded instantly or accurately; (c) GPS positioning will be accurate; (d) AR functions will display normally on all devices; (e) data transmission will not be affected by network environment; (f) third-party technology providers will not experience interruption or policy changes; (g) the system is free from viruses or malicious codes.
+7.4 If mission records, stamps, points, rankings, redemption eligibility or lucky draw results are delayed, erroneous, lost or fail to display due to any circumstances including but not limited to unstable mobile networks, system maintenance, third-party platform failures, or cybersecurity incidents, the Association shall not bear any responsibility.
+7.5 All mission completion, stamps, points, rankings, redemption eligibility and lucky draw results shall be based on the Association's backend system records. In case of any dispute, the Association shall have the final and conclusive decision.
+7.6 The Association reserves the right to suspend, interrupt, or restrict access to any part of the Event at any time for system maintenance, data protection, or other operational needs without prior notice.
+
+Chapter 8 – Account Registration, Security and Usage
+8.1 Participants must register with the Association and create a user ID and password before using designated functions of the Event (if required).
+8.2 Users must properly safeguard their user ID and password. Any use conducted through your account shall be deemed to have been conducted by you.
+8.3 If the Association or any third party suffers any loss due to your failure to properly protect your account information, you shall bear the relevant responsibility.
+8.4 If you discover any unauthorized use or other security issues, you agree to notify the Association immediately.
+8.5 The Association reserves the right, at its absolute discretion, to refuse any registration application, suspend or terminate any account.
+8.6 Upon termination of your account, records of activities you have participated in may not necessarily be deleted together with the account termination.
+
+Chapter 9 – Privacy Policy and Personal Data
+9.1 The Association shall comply with the Personal Data (Privacy) Ordinance (Cap. 486) when handling your data. The Association will collect, process, disclose, retain or use your personal data in accordance with its privacy policy.
+9.2 You represent that the personal data provided by you is true, accurate, current and complete, and you agree to update it promptly.
+9.3 Personal data that the Association may collect includes but is not limited to name, age, gender, company/organization name, email address, correspondence address, contact number and other information necessary for providing the Services.
+9.4 Your user data may be used by the Association and/or related affiliated entities for user statistical research to provide more tailored information and promotional materials.
+9.5 Where online payment is involved (if applicable), your data may be disclosed to banks and/or third-party service providers.
+9.6 The Association may collect and use technical data and related information (including but not limited to UUID, device, system, software and technical data) for updates, product support or other services.
+9.7 Internet data transmission cannot be guaranteed to be completely confidential or secure. You understand and agree that data sent via the Internet may be read or intercepted by others.
+9.8 If you wish to correct your personal data, you may submit a request in the manner specified by the Association.
+
+Chapter 10 – Intellectual Property, Authorization and Usage Restrictions
+10.1 All or part of the materials of the Services are protected by relevant intellectual property laws. All rights in the Content of the Services are owned or controlled by the Association and/or relevant licensors.
+10.2 The Association grants you a non-exclusive and non-transferable limited right to use the Services strictly for the purposes permitted under these Terms.
+10.3 Any activities conducted by you in relation to the Services shall not result in any transfer of intellectual property rights to you.
+10.4 All logos, trademarks, service marks, and other proprietary identifiers belonging to sponsors, collaborators, or venue partners are used with permission and remain the exclusive property of their respective owners. Participants shall not copy, reproduce, modify, distribute, or otherwise use any such logo or trademark without the prior written consent of the respective rights holder.
+
+Chapter 11 – Disclaimer and Waiver
+11.1 The Services and their Content are provided on an ""as is"" and ""as available"" basis. The Association makes no representations or warranties regarding merchantable quality, fitness for a particular purpose, non-infringement, compatibility, security or accuracy.
+11.2 The Association does not guarantee that the functions or materials of the Services will be uninterrupted or error-free, nor that the servers are free from viruses or malfunctions.
+11.3 Under no circumstances shall the Association be liable or provide compensation for any loss suffered by any person arising from or in connection with the use of the Services (including direct, indirect or consequential loss).
+11.4 To the maximum extent permitted by law, the Association and its suppliers disclaim all warranties relating to the Services, software or Content.
+11.5 To the maximum extent permitted by law, the Association shall not be liable for: (a) damage, data loss or bandwidth consumption arising from the use of the Services; (b) any loss of revenue or profit or any incidental/consequential loss; (c) any error or delay in supply/sale; (d) any injury, illness or loss of consciousness arising from the use of the Services; (e) any disruption, suspension, delay, malfunction or deactivation caused by events beyond control; (f) any intellectual property infringement arising from the use of the Services.
+
+Chapter 12 – Indemnity
+12.1 You agree to indemnify and hold harmless the Association from and against any claims, actions, proceedings, damages, liabilities, costs and expenses arising from: (a) your breach of these Terms; (b) your use of the Website / Services / Content / software; (c) content or information provided by you; (d) any person's use of your account; (e) your infringement of the rights of others; (f) any matters relating to personal data submitted by you.
+12.2 The provisions of this Chapter shall remain effective after you cease using the Services.
+
+Chapter 13 – Rights of the Association
+13.1 The Association may, without prior notice, expand, reduce and/or modify all or any part of the Services or Content at any time.
+13.2 The Association may suspend all or any part of the Services for system maintenance, enhancement, testing and/or repairs.
+13.3 The Association may change mission arrangements, redemption methods or event procedures due to public safety considerations, venue rules, technical limitations or other reasonable grounds.
+
+Chapter 14 – Third-Party Content, Links, Advertisements and Transactions
+14.1 The Services or Website may contain third-party information and/or hyperlinks. The Association makes no representations regarding any third-party software, materials, programs, media platforms, devices or services. You agree to bear the risks associated with the use of such third-party services.
+14.2 Any transactions or promotional activities conducted between you and third parties are solely between you and such third parties. The Association shall not be responsible for any payment, provision of products/services, terms, warranties or representations relating thereto.
+
+Chapter 15 – Special Venue Terms
+15.1 Certain missions of the Event take place within shopping malls, MTR stations or other public or private venues. Participants must comply with the rules, bylaws and staff instructions of such venues.
+15.2 Shopping malls, MTR and other venues are venue providers only and are not organizers of the Event.
+15.3 If venue staff require participants to stop any conduct or leave a designated area, participants must comply immediately.
+15.4 In the event of any inconsistency between a venue's instructions and the Event gameplay or digital platform, the venue's rules and instructions shall take priority and prevail.
+15.5 Participants acknowledge that venue operators and third parties have their own safety and operational policies, which may include restrictions on photography, filming, noise, movement, or access to certain areas.
+
+Chapter 16 – Brand Partner Liability Separation
+16.1 The Event may collaborate with multiple brands or organizations. Such partners generally serve as supporting organizations, venue providers, promotional partners or mission support units only, and are not organizers of the Event.
+16.2 Any transactions, consumption or service disputes between participants and brand partners shall constitute a legal relationship between the parties concerned. The Association shall not be responsible for the quality, supply, commitments, representations or operational arrangements of brand products or services.
+16.3 Brand names and logos are used solely for partnership explanation purposes and do not imply endorsement or guarantee of the Event content.
+
+Chapter 17 – Force Majeure
+17.1 The Association shall not be liable to you if it fails or delays in performing its obligations under these Terms due to events beyond reasonable control, including but not limited to strikes, material shortages, riots, fires, floods, heavy rain, natural disasters, war, terrorism, government actions, earthquakes, epidemics or public health emergencies, Internet failures or abnormal connection issues.
+17.2 Upon the occurrence of a force majeure event, the Association shall not be required to perform the affected obligations during the continuation of such event.
+
+Chapter 18 – Interpretation, Amendment, Governing Law and Jurisdiction
+18.1 The Association shall have the exclusive right to interpret these Terms.
+18.2 The Association may update these Terms at any time without prior notice, and such updates shall be published online. Your continued use of the Services after such updates shall constitute acceptance of the updates.
+18.3 These Terms shall be governed by and construed in accordance with the laws of the Hong Kong Special Administrative Region. The courts of the Hong Kong Special Administrative Region shall have exclusive jurisdiction over any disputes arising from these Terms.
+18.4 In case of discrepancies between the Chinese and English versions, the English version shall prevail.
+
+Chapter 19 – Request to Cease Receiving Direct Marketing Communications
+19.1 If you do not wish to continue receiving direct marketing communications from the Association and/or related affiliated entities, you may write to: New Life Psychiatric Rehabilitation Association, 332 Nam Cheong Street, Kowloon (Attn: dayday330) or email: dayday330@nlpra.org.hk. Please specify your registered name and email address or login name, and the direct marketing communication method you wish to cease.","請在登入或使用 https://330day2026.nlpra.org.hk （「本網站」）及／或任何與 330 Day 2026《感．生活》有關之網站、手機專頁、任務平台、擴增實境（AR）功能、全球定位系統（GPS）定位功能、數碼互動內容及任何線上或線下活動（統稱「本服務」或「本活動」）前，細閱以下（統稱「本條款」）。
+
+當您：(a) 註冊成為本網站或本活動之會員或用戶；或 (b) 登記使用本服務；或 (c) 參與本活動任何任務、換領、抽獎或互動內容；或 (d) 參與任何與本活動相關之線上或線下安排；或 (e)（如適用）購買產品或報名參加工作坊／活動；即表示您已閱讀、理解並同意遵守本條款，並受其約束。
+
+本活動由新生精神康復會（以下簡稱「本會」）主辦及／或管理。本會保留於任何時間修改本條款任何部分之權利。
+
+第一章 定義與適用範圍
+1.1「本網站」指 https://330day2026.nlpra.org.hk 及本會不時指定之其他網域、頁面或子頁。
+1.2「本服務」指本會透過本網站、手機專頁、任務平台或其他媒體向您提供之任何內容、功能及服務，包括但不限於文字、圖片、聲音、影片、互動內容、數據、資訊、程式、軟件、工具、伺服器服務、AR 功能、GPS 定位功能、任務系統及相關支援。
+1.3「本活動」指 330 Day 2026《感．生活》整體推廣活動，包括但不限於城市任務、線上任務、線下攤位或活動、場地任務（例如商場／港鐵站／合作店舖）、換領安排、抽獎安排、宣傳互動及任何附帶活動（如有）。
+1.4「內容」指可透過本服務或本網站取得之任何材料，包括但不限於靜態圖像、語音、移動影像、影片、文字、文章、編輯作品、數據、資訊及其他資料。
+1.5「用戶／參加者」指任何瀏覽、登入、註冊、使用本服務或參與本活動之人士。
+1.6「合作單位」／「第三方」指任何並非本會之第三方，包括但不限於場地提供者（例如商場、港鐵站等）、品牌夥伴、贊助商、供應商、技術平台供應商、媒體平台、支付服務供應商等。
+
+第二章 活動性質及參與原則
+2.1 本活動為公眾精神健康推廣項目，旨在鼓勵參加者透過五感覺察進行「330 微休息」，培養日常覺察與自我照顧習慣。
+2.2 本活動並非醫療、心理治療或任何專業臨床服務。本會所提供之內容僅供一般公眾教育及推廣用途，並不構成任何醫療或心理專業建議或診斷。
+2.3 參加者須自行確保其身體及精神狀況適合參與本活動及相關任務。如於參與期間感到不適，應立即停止，並按需要自行尋求適當協助。
+2.4 本活動及其相關活動的參與完全屬自願，並由參加者自行承擔風險。參加者可隨時選擇退出或停止參與，而無須任何罰則或事先通知。
+
+第三章 用戶義務、使用限制及行為守則
+3.1 您可透過您擁有或控制之裝置，以非商業及私人用途瀏覽及使用本服務，惟您必須保持所有版權或其他知識產權告示的完整，並遵守本會不時發出的合理指示。
+3.2 未經本會事先書面同意，您不得（亦不得促使或容許任何人士）：
+(a) 使用本網站／本服務提供之程式及資料作任何非法用途；
+(b) 在任何不屬於您所擁有或控制的裝置內使用本服務；
+(c) 預先下載本服務至任何裝置，並於市場上推廣、銷售、流通或發佈該等裝置；
+(d) 仿造、複製、印製、逆向工程、銷售、轉售本服務任何部分；
+(e) 修改、印製、仿造、轉載、上載、刊登、分發、廣播、下載、儲存、傳輸、公開展示或表演本服務之材料；
+(f) 修改、改適、數字化、編碼、再格式化、壓縮、截取、干擾或操控本服務或內容之訊號；
+(g) 再授權、翻譯、出售、逆向工程、分解或反匯編本服務、軟件及／或內容；
+(h) 入侵或試圖入侵貯存於本會或任何第三方伺服器之任何部分；
+(i) 置入任何含病毒、蠕蟲、定時炸彈、木馬或其他有害或破壞性組件之軟件；
+(j) 妨礙或干擾本服務、伺服器或連接本服務之網絡；
+(k) 偽造標題或操控識別標籤以偽裝任何內容來源；
+(l) 刪除任何版權、商標或其他專有權利聲明；
+(m) 收集使用本服務之其他用戶資料；
+(n) 將本服務、內容或程式下載至及／或使用於任何工具並作任何商業用途。
+3.3 您同意使用本服務時，您的使用方式不會侵犯或限制或妨礙任何第三方使用及享用本服務；亦不得作出任何滋擾、恐嚇、暴力、不道德、色情或誹謗言論。
+
+第四章 活動安全守則
+4.1 參加者於參與本活動任何任務或線下活動時，必須以公共安全為首要考慮，並須遵守香港法律、公共秩序及場地規則。
+4.2 參加者不得阻塞任何通道、出入口、扶手電梯、樓梯、緊急通道；不得奔跑、追逐或作出可能危及他人之行為。
+4.3 參加者不得攀爬、跨越、倚靠或觸碰未經許可之公共設施或場地設備；不得破壞公物、污染環境或影響場地正常運作。
+4.4 參加者進行拍攝、錄影或任務紀錄時，須尊重他人私隱，並按需要先取得對方同意；不得拍攝限制區域或影響他人通行。
+4.5 如任何場地方職員、本會工作人員或保安人員認為參加者行為可能影響安全或秩序，有權要求參加者停止、離開或終止其參與資格，參加者須即時配合。
+4.6 本會、其職員、合作夥伴及活動關聯方，對於因參與本活動所引致或與之相關之任何傷害、疾病、情緒困擾、損失、損害或索償，在法律允許之最大範圍內，概不承擔任何責任。
+4.7 在任何情況下，本會均不會就參與本活動或與之相關而引致之任何間接、附帶、特殊或相應損失負責。
+
+第五章 公共安全及人流管理
+5.1 參加者於參與任何任務時，須遵守香港法律及相關場地規則，不得作出任何阻塞通道、影響他人安全、攀爬設施、奔跑或干擾公共秩序之行為。
+5.2 如出現人流過多、打卡聚集、排隊擁擠、突發事故、或任何可能影響公共安全之情況，本會有權因應實際情況即時調整活動安排，包括但不限於暫停任務、更改任務地點、限制參與人數、調整換領安排或終止相關活動。
+5.3 公共安全優先於任務完成、積分計算及任何換領安排。參加者不得因上述調整而向本會提出任何索償、補償或其他要求。
+
+第六章 AR 內容使用條款及 GPS 定位條款
+6.1 本活動部分功能可能涉及使用擴增實境（AR）、基於位置之任務、照片或濾鏡互動，以及／或 GPS 定位系統驗證。參加者確認並同意該等功能依賴各種第三方技術，此等技術超出本會之控制範圍。
+6.2 參加者負責確保其裝置適合、電量充足，並於參與期間安全使用。
+6.3 參加者使用 AR 或操作手機裝置時，須留意周邊環境及個人安全，並不得於任何潛在危險位置操作裝置，包括但不限於港鐵月台邊緣、扶手電梯、樓梯、馬路或車行道附近。
+6.4 AR 內容、濾鏡效果及相關互動內容僅供個人及非商業用途。
+6.5 參加者因使用 AR／GPS 功能而產生之任何風險、意外、財物損失或裝置損壞，概由參加者自行承擔。
+6.6 參加者明白：GPS 訊號在特定環境下可能不準確或無法使用；AR 內容或濾鏡可能因裝置型號、系統版本、網絡連線或環境照明而顯示異常；任務進度、印章記錄或定位準確度可能受伺服器狀況、訊號強度或外部干擾影響。
+
+第七章 電子系統、技術限制及數據風險
+7.1 本活動及本服務之運作涉及多項電子及數碼技術，包括但不限於第三方伺服器、行動網絡、GPS 定位系統、AR 平台、瀏覽器兼容性、作業系統差異、裝置硬件差異及任何相關技術。
+7.2 參加者明白並同意，本會無法保證上述技術於任何時間均能穩定運作。
+7.3 本會不保證：(a) 系統運作不會中斷、延遲或故障；(b) 任務紀錄可即時同步或準確上傳；(c) GPS 定位準確無誤；(d) AR 功能可於所有裝置正常顯示；(e) 數據傳輸不受網絡環境影響；(f) 第三方技術供應商不會出現中斷或變更政策；(g) 系統不含病毒、惡意代碼或其他有害成分。
+7.4 如因任何情況導致任務紀錄、印章、積分、排名、換領資格或抽獎結果出現延誤、錯誤、遺失或未能顯示，本會概不承擔任何責任。
+7.5 參加者同意所有任務完成與否、印章數量、積分統計、排名、換領資格及抽獎結果，均以本會後台系統最終紀錄為準；如有任何爭議，本會擁有最終及不可推翻之決定權。
+7.6 本會保留權利，隨時因系統維護、升級、測試、故障排除、資料保護或其他運作需要，暫停、中斷或限制存取本活動任何部分。
+
+第八章 帳戶登記、保安及使用
+8.1 參加者於參與本活動指定功能（如需要）前須向本會登記並建立用戶 ID 及密碼。
+8.2 用戶須妥善保管用戶 ID 及密碼，並採取一切必要措施確保保密及安全。任何人士透過您的帳戶所作之使用將被視為由您作出。
+8.3 如因您未能妥善保護帳戶資料而導致本會或第三方蒙受損失，您須承擔相關責任。
+8.4 如您發現任何未經授權使用或其他安全問題，您同意立即通知本會。
+8.5 本會保留權利以其絕對酌情權拒絕任何登記申請、暫停或終止任何帳戶。
+8.6 當您的帳戶被終止後，您曾參與過的活動紀錄並不一定會因帳戶終止而一併刪除。
+
+第九章 私隱政策及個人資料
+9.1 本會於處理您的資料時將遵守香港法例第 486 章《個人資料（私隱）條例》。
+9.2 您聲明所提供之個人資料為真實、準確、最新及完整，並同意及時更新。
+9.3 本會可收集之個人資料包括但不限於姓名、年齡、性別、公司／機構名稱、電郵地址、通訊地址、聯絡電話及提供服務所需之其他資料。
+9.4 您的用戶資料可由本會及／或相關關聯機構使用作用戶統計研究。
+9.5 如涉及網上付款（如適用），您的資料可能會披露予銀行及／或第三方服務供應商。
+9.6 本會可收集及使用技術數據及相關資訊（包括但不限於 UUID、裝置、系統、軟件及技術數據）。
+9.7 互聯網上之數據傳輸不能保證完全保密或安全。您理解並同意，透過互聯網發送之數據可能被他人讀取或截取。
+9.8 如您希望更正您的個人資料，可按本會指定的方式提出申請。
+
+第十章 知識產權、授權及使用限制
+10.1 本服務之全部或部分材料受相關知識產權法律保護。本服務內容之所有權利由本會及／或相關授權人擁有或控制。
+10.2 本會授予您非獨家及不可轉讓之有限權利，以個人電腦或流覽裝置瀏覽或使用本服務，嚴格限於本條款所允許之目的。
+10.3 您承認您就本服務、內容、網站材料或軟件所進行之任何活動，不會導致任何知識產權移轉予您，亦不授權您行使任何知識產權。
+10.4 所有贊助商、合作夥伴或場地夥伴的標誌、商標、服務標誌、品牌名稱及其他專有識別標誌，均以獲得許可或適當授權的方式使用，並仍為各自所有者的獨有財產。參加者未事先取得相關權利持有人書面同意，不得複製、修改、分發或以其他方式使用任何此類標誌或商標。
+
+第十一章 免責聲明及棄權
+11.1 本服務及其內容按「現狀」及「現有」基礎提供。本會不就適銷性、特定用途適合性、不侵犯他人權利、兼容性、安全性或準確性作出任何明示或暗示的陳述或保證。
+11.2 本會不保證本服務之功能或材料將不間斷或無錯誤，亦不保證伺服器免受病毒或故障影響。
+11.3 在任何情況下，本會均不就任何人因使用本服務（包括直接、間接或相應性損失）而蒙受之任何損失承擔責任或給予賠償。
+11.4 在法律允許的最大範圍內，本會及其供應商就本服務、軟件或內容的所有保證均予以免責。
+11.5 在法律允許的最大範圍內，本會不就以下事項承擔責任：(a) 因使用本服務而引起之損壞、數據損失或頻寬消耗；(b) 任何收入或利潤損失或任何附帶性／相應性損失；(c) 任何供應或銷售方面之錯誤或延誤；(d) 因使用本服務而引起之任何傷害、疾病或意識喪失；(e) 因超出控制之事件、系統維護或第三方服務所導致之任何中斷、暫停、延誤、故障或停用；(f) 因使用本服務而引起之任何知識產權侵犯。
+
+第十二章 彌償
+12.1 您同意就以下事項產生的任何索賠、訴訟、損害、責任、費用及開支（包括合理律師費），向本會作出彌償並使其免受損害：(a) 您違反本條款；(b) 您使用本網站／本服務／內容／軟件；(c) 您提供之內容或資訊；(d) 任何人士通過您的帳戶進行之使用；(e) 您侵犯他人權利；(f) 您提交的個人資料相關事宜。
+12.2 本章條款在您停止使用本服務後繼續有效。
+
+第十三章 本會的權利
+13.1 本會可在不作事先通知的情況下，於任何時間擴展、縮減及／或修改本服務或內容的全部或任何部分。
+13.2 本會可為系統維護、改善、測試及／或維修而暫停本服務的全部或任何部分。
+13.3 本會可因公共安全考慮、場地規則、技術限制或其他合理原因更改任務安排、換領方式或活動程序。
+
+第十四章 第三方內容、連結、廣告及交易
+14.1 本服務或本網站可能包含第三方資訊及／或超連結。本會不就任何第三方軟件、材料、程式、媒體平台、裝置或服務作出任何聲明。您同意承擔使用該等第三方服務所帶來的風險。
+14.2 您與第三方透過本服務或連結網站進行的任何交易或推廣活動，純屬您與該等第三方之間的事宜。本會不就相關付款、產品／服務的提供、條款、保證或聲明承擔責任。
+
+第十五章 特定場地條款
+15.1 本活動部分任務在商場、港鐵站或其他公共或私人場地內進行。參加者須遵守相關場地的規則、附例及職員指示。
+15.2 商場、港鐵及其他場地僅為場地提供者，並非本活動的主辦方，且無須就本活動的內容或安排承擔法律責任。
+15.3 如場地職員要求參加者停止任何行為或離開指定區域，參加者須立即遵從。
+15.4 如場地指示與本活動遊戲玩法或數碼平台提供的任務、指引之間存在任何不一致或衝突，以場地規則及指示為優先。
+15.5 參加者承認場地營運商及第三方有其本身的安全及運作政策，可能包括對拍攝、錄影、噪音、走動或進入特定區域的限制。
+
+第十六章 品牌夥伴責任分離聲明
+16.1 本活動可能與多個品牌或機構合作。該等夥伴一般僅作為支持機構、場地提供者、推廣夥伴或任務支援單位，並非本活動的主辦方。
+16.2 參加者與品牌夥伴之間的任何交易、消費或服務糾紛，構成相關各方之間的法律關係。本會不就品牌產品或服務的質量、供應、承諾、聲明或運作安排承擔任何責任。
+16.3 品牌名稱及標誌僅用於說明合作關係之目的，並不暗示對本活動內容的認可或保證。
+
+第十七章 不可抗力
+17.1 如本會因超出合理控制範圍的事件而未能履行或延遲履行本條款下的義務，本會不對您承擔責任。不可抗力事件包括但不限於罷工、物料短缺、暴亂、火災、洪水、暴雨、天災、戰爭、恐怖主義、政府行動、地震、疫症或公共衛生緊急事件、互聯網故障或電訊供應商的異常連接問題。
+17.2 不可抗力事件發生後，本會在該事件持續期間及其後合理恢復期內，無需履行受影響的義務。
+
+第十八章 釋義、修訂、適用法律及司法管轄權
+18.1 本會就本條款之闡釋擁有獨家決定權。
+18.2 本會可隨時更新本條款而不作事前通知，並於網上刊登；您於更新後繼續使用本服務即代表接受有關更新。
+18.3 本條款受香港特別行政區法律管轄並按其解釋。香港特別行政區法院對本條款所引致之爭議享有專屬司法管轄權。
+18.4 如中文版與英文版有任何不一致之處，一律以英文版為準。
+
+第十九章 要求停止收取直接促銷資訊
+19.1 如您不欲再收取本會及／或相關關聯機構之直接促銷資訊，可致函九龍南昌街 332 號新生精神康復會（註明：dayday330）或電郵至 dayday330@nlpra.org.hk，並詳列登記姓名及電郵地址或登入名稱，以及欲停止使用之直接促銷通訊方式。"
+about.title,About dayday330,關於dayday330
+about.intro,"dayday330 is a public mental health promotion initiative launched by New Life Psychiatric Rehabilitation Association in 2019. It encourages everyone to set aside time each day to practise ""3-3-0 micro-breaks"" — small moments to care for the Body (3), Mind (3) and Spirit (0) in ways that suit their personal preferences and lifestyle.
+
+Research has shown that taking daily micro-breaks can effectively relieve emotional strain and reduce stress. Through simple and sustainable practices, individuals can gradually build healthier habits and strengthen their overall well-being.
+
+We also encourage participants to draw inspiration from the ""Five Ways to Wellbeing"" proposed by the New Economics Foundation in the UK when choosing their 330 micro-break activities. These include: Take Notice, Be Active, Give, Connect, and Keep Learning. By incorporating these elements into everyday life, individuals can nourish their body, mind and spirit, and steadily cultivate a more fulfilling life.","dayday330是新生精神康復會於2019年，推出的公眾精神健康推廣活動。鼓勵大家每天抽出時間，以自己喜歡的方式進行「身(3)、心(3)、靈(0)小休息」。有研究顥示，每日進行「小休息」，可有效舒緩情緒、減少壓力。
+
+我們鼓勵大家可以因應由英國新經濟聯盟提出的「五種促進身心靈健康的方法」為自己揀選「330 小休息」活動，其中包括：好奇留意、動一動身、給予樂善、與人聯繫及持續學習，從而滋養身心靈健康，逐步建立豐盛人生。"
+about.subTitle1,330 Day in March,每年三月的 330 Day
+about.content1,"330 Day is the annual flagship mental wellness campaign organised by dayday330 every March. Since 2019, we have continuously introduced large-scale public initiatives in different formats to promote the concept of 330 micro-breaks — encouraging people to reserve a small moment each day to care for their body, mind and spirit, and to gradually reshape their life rhythm through small but meaningful changes.
+
+330 Day 2026 – Sense · To Live is a month-long, city-wide initiative taking place throughout March. Through experiences engaging the five senses — sight, sound, smell, taste and touch — participants are invited to rediscover the present moment within familiar daily settings and practise awareness within the urban environment.
+
+Through a series of interactive missions and experiential activities, the programme encourages ""sensing"" to become part of everyday living. By cultivating sustainable micro-break habits, participants can reconnect with themselves, their communities and the rhythm of the city.","330 Day是 dayday330 每年 3 月舉辦的大型身心靈推廣行動。自 2019 年起，我們持續透過不同形式的大型活動，讓更多人認識「330 小休息」——每天為自己預留片刻，照顧身、心、靈的需要，從微小開始，慢慢改變生活節奏。
+
+330 Day 2026《感．生活》 是一項橫跨整個三月的城市共同行動。活動以五感體驗——視覺、聽覺、嗅覺、味覺與觸覺——為切入點，引導參與者在熟悉的生活場景中重新感受當下，在城市之中練習覺察。透過一系列互動任務與體驗，讓「感受」成為生活的一部分，逐步培養可持續的微小休息習慣，重新連結自己、社區與城市節奏。"
+about.followTitle,Follow Us,追蹤我們了解更多
+about.content,"330 Day 2026 Sense · To Live is a month-long, city-wide initiative taking place throughout March. Through experiences engaging the five senses—sight, sound, smell, taste, and touch—the programme invites participants to reconnect with the present moment within familiar daily settings. By encouraging sustainable micro-break habits, Sense · To Live integrates mindful sensing into everyday life, making ""feeling"" a natural part of living.
+
+How Sense · To Live Works
+
+The City Five Senses Journey
+During the campaign period, participants can take part in five senses themed missions across different corners of the city, in collaboration with dayday330 partners and designated locations.
+
+Each mission is designed to be short, accessible, and repeatable, allowing participants to engage consciously with their senses without disrupting their existing daily routines.
+
+Five-Senses Missions Include (but are not limited to):
+
+Sight
+Rediscover overlooked details in everyday surroundings through observation and visual awareness.
+Sound
+Pause to listen and recognize layers and rhythms within the surrounding environment.
+Smell
+Notice how scents evoke memories and emotional responses.
+Taste
+Engage fully in the act of eating, paying attention to texture, flavor, and change.
+Touch
+Heighten bodily awareness through sensations such as temperature, weight, and texture.
+
+After completing each mission, participants may record their experiences on the designated 330 Day mobile page, gradually building a personal collection of five-senses experiences.
+Participation & Game Mechanics
+
+Join the Journey
+Participants may join the Sense · To Live via the 330 Day mobile page to access campaign guidelines and mission details.
+
+Complete Five Senses Missions
+Participants follow instructions to complete sensory missions at partner locations or within their daily lives. The missions emphasize self-awareness, with no standard answers and no right or wrong outcomes.
+
+Collect Five Senses Stamps
+Each completed mission earns a corresponding five senses stamp. By collecting a designated number of stamps, participants can unlock commemorative rewards at different stages of the journey.
+
+Reward Redemption
+During the campaign period, participants who complete the designated five-senses missions and successfully collect the required stamps may redeem 330 Day 2026 limited-edition commemorative items at *designated locations.
+
+Designated locations include:
+cafe330
+Kwong Wah Hospital
+Portion of G/F, New Main Building, Kwong Wah Hospital, 25 Waterloo Road, Yau Ma Tei, Kowloon
+
+Caritas Medical Centre
+4/F Wai Shun Block, Caritas Medical Centre, 111 Wing Hong Street, Sham Shui Po, Kowloon
+
+Prince of Wales Hospital
+Level 1, Main Clinical Block & Trauma Centre, Prince of Wales Hospital, 30-32 Ngan Shing Street, Shatin
+
+The University of Hong Kong
+Room 203, 2/F., Chong Yuet Ming Amenities Centre, the University of Hong Kong, Pokfulam, HK
+so330
+Shop A-C, G/F, Tai Yuen Court, 38 Tai Yuen Street, Wan Chai, HK
+
+
+Redemption Notes:
+Each participant is eligible to redeem one commemorative item corresponding to their achieved reward tier during the campaign period.
+Quantities are limited and available on a first-come, first-served basis, while stocks last.
+
+Closing Event – Five Senses Carnival
+
+As one of the key highlights of 330 Day 2026 Sense · To Live, a closing event titled ""Five Senses Carnival"" will be held on 28–29 March 2026 at The Wai, Tai Wai, bringing together the collective five-senses experiences from throughout March through a variety of interactive booths.
+
+The event will showcase selected five senses themed interactive content and experiential installations, allowing participants to revisit and extend their sensory journey from the past month within a shared physical space. Through participation and exchange, the public is invited to complete a collective five senses moment belonging to the city.
+
+A Closing Ceremony will take place on 29 March 2026, marking a meaningful conclusion to the Sense ·To Live.
+
+Five Senses Carnival
+
+Date: 28–29 March 2026 (Saturday & Sunday)
+Time: 10:00 a.m. – 5:00 p.m.
+Venue: L2, The Wai,18 Che Kung Miu Road, Sha Tin
+
+Programme Highlights:
+The festival will feature multiple interactive booths themed around the five senses, along with 330 Micro-break activities and well-being experiences. Public are invited to connect with themselves in a relaxed and accessible way, and to experience how the five senses can bring subtle yet meaningful changes to everyday life.","330 Day 2026《感．生活》 是一項橫跨整個三月的城市共同行動，透過五感體驗——視覺、聽覺、嗅覺、味覺與觸覺——引導參與者在熟悉的生活場景中，重新感受當下，培養可持續的微小休息習慣，讓「感受」成為生活的一部分。
+
+《感．生活》活動玩法
+
+「城市五感旅程」
+活動期間，參與者可於全港不同城市角落，透過 dayday330 合作夥伴及指定地點，完成五感主題任務。合作夥伴包括：港鐵有限公司、譚仔國際集團、誠品書店及牧羊少年餐廳。
+
+五感任務包括但不限於：
+
+視覺：透過觀察與留意，重新看見日常被忽略的細節
+
+聽覺：為聲音停留片刻，辨認環境中的層次與節奏
+
+嗅覺：留意氣味帶來的記憶與情緒反應
+
+味覺：專注進食過程，感受食物的質感與變化
+
+觸覺：透過身體感受，覺察溫度、重量與觸感
+
+完成每項任務後，參與者可於指定330Day手機專頁記錄體驗，逐步累積屬於自己的五感印記。
+
+
+遊戲與參與方式
+
+加入旅程
+參與者可透過330Day手機專頁加入《感．生活》城市五感旅程，獲取活動指引及任務資訊。
+
+完成五感任務
+按照指引於合作地點或日常生活中完成指定感官任務。任務設計強調「自我覺察」，不設標準答案，亦無對錯之分。
+
+收集五感印章
+每完成一項感官任務，參與者可獲得對應的五感印章。完成指定數量的印章，即可解鎖不同階段的紀念獎賞。
+
+禮物換領方式
+活動期間，參與者完成指定五感任務並成功收集印章後，可於*指定地點換領 330 Day 2026 限定紀念品。
+
+*指定地點包括：
+cafe330 廣華醫院
+九龍油麻地窩打老道25號廣華醫院新大樓地下大堂中庭
+
+cafe330 明愛醫院
+九龍深水埗永康街111號明愛醫院懷信樓4樓
+
+cafe330 威爾斯親王醫院
+新界沙田銀城街30-32號威爾斯親王醫院住院主樓暨創傷中心1樓
+
+cafe330 香港大學
+香港薄扶林香港大學莊月明文娛中心2樓203室
+
+so330
+香港灣仔太原街38號太源閣地下A-C舖
+
+禮物換領須知：
+每位參與者可於活動期間換領一次對應級別的紀念品
+紀念品數量有限，先到先得，換完即止
+
+3 月28-29日總結活動「五感生活祭」
+作為 330 Day 2026《感．生活》的重點活動之一，本計劃將於 2026 年3月28至29日舉行總結活動「五感生活祭」，於大圍圍方透過各種互動攤位，匯聚整個三月的五感體驗。
+
+活動將精選呈現五感主題互動內容及體驗裝置，讓參與者於同一空間中回顧及延續過去一個月的感受歷程，並透過交流與參與，共同完成屬於城市的五感片刻。3月29日更有閉幕典禮，為整段《感．生活》旅程畫上階段性句號。
+
+「五感生活祭」
+日期：2026 年 3 月 28 至 29 日（星期六及日）
+時間：上午 10:00 至 下午 5:00
+地點：圍方 L2 層（沙田車公廟路 18 號）
+內容： 現場設有多個以五感為主題的互動體驗攤位、330 小休息活動及身心靈相關體驗，讓公眾以輕鬆的方式接觸精神健康，親身感受五感如何在日常中帶來轉變。"
+wellbeing.title,Wellbeing Index Survey,健康指數調查
+wellbeing.description,Please select the option that best matches your situation,請根據您的實際情況選擇最符合的選項
+wellbeing.questions_answered,questions completed,題已完成
+wellbeing.please_answer_all,Please answer all questions before submitting,請回答所有問題後提交
+wellbeing.submit,Submit Survey,提交調查
+wellbeing.submitting,Submitting...,提交中...
+wellbeing.submit_success,Survey Submitted Successfully,調查提交成功
+wellbeing.submit_error,Failed to Submit Survey,調查提交失敗
+wellbeing.your_score,Your Wellbeing Score,你的健康指數分數
+wellbeing.continue,Continue,繼續
+wellbeing.complete,Complete,完成
+wellbeing.result_title,Analysis Result,分析結果
+wellbeing.disclaimer_title,*Disclaimer,*免責聲明
+wellbeing.disclaimer_content,"The dayday330 well-being index is intended as a self-assessment tool to provide the general public with a preliminary understanding of their current mental health status. The result of the assessment is for reference only and should not be regarded as equivalent to any formal diagnosis made by healthcare professionals. Should you have any enquiries or further needs, please seek professional assessment or support.",dayday330身心靈健康指數旨在讓市民透過自我評估，初步了解自己當下的身心狀態，評估結果僅供參考，並不能視作或等同任何專業醫療診斷。如您有任何疑問或需要，請諮詢相關專業人士，以獲取進一步協助。
+wellbeing.result.high.title,330 Holistic well-being,整全身心靈健康
+wellbeing.result.high.description,"Your current physical, psychological, and spiritual well-being is above average, reflecting good physical and mental condition with a relatively high level of positive feelings. In general, you connect well with those around you and your surroundings. You have a sound understanding of your own values, which contributes to a flourishing life.
+
+Your dedication to taking care of your well-being is appreciated. To maintain your holistic well-being, we encourage you to engage in nurturing activities consistently on a daily basis, such as:
+
+• Practise mindfulness
+• Exercise regularly
+• Connect with nature
+• Savour your favourite things
+• Do something you feel like doing
+• Learn new things
+• Connect and share with people
+• Help people in need
+• Participate in volunteer services","您現時的身心靈健康高於平均水平，反映您目前身心狀態良好，正向感受也較高。您大致能與他人和社區保持良好連繫，並了解自己的價值觀，有助建立豐盛的靈性生活。
+
+欣賞您一直以來對自己身心靈的悉心關顧。鼓勵您繼續每天持之以恆，進行一些滋養活動，灌溉自己的身心靈，例如：
+
+• 練習靜觀
+• 多做運動
+• 接觸大自然
+• 細味自己喜歡的事物
+• 做感興趣的活動
+• 學習新事物
+• 與人連繫和分享
+• 幫助有需要的人
+• 參與義工服務"
+wellbeing.result.average.title,Well-being is average,身心靈健康處於平均水平
+wellbeing.result.average.description,"Your current physical, psychological, and spiritual well-being is at an average level, reflecting an adequate level of positive emotions. Your current activities can generally meet your social and spiritual needs.
+
+Your effort to take care of yourself is appreciated. To further enhance your holistic well-being, we encourage you to pay more attention to and take care of your physical, mental, and spiritual needs. You may build up your self-care routine including nurturing activities of your choice on a daily basis, such as:
+
+• Practise mindfulness
+• Exercise regularly
+• Connect with nature
+• Savour your favourite things
+• Do something you feel like doing
+• Learn new things
+• Connect and share with people
+• Help people in need
+• Participate in volunteer services","您現時的身心靈健康處於平均水平，反映您目前大致能關顧自己的身心靈需求，内心具有足夠的正向感受，也能連繫他人和社區。
+
+鼓勵您持續照顧自己的身心靈。要進一步提升您的身心靈健康，鼓勵您多覺察和關顧自己的身心靈狀態，並每天進行一些您喜歡的滋養活動，建立起自我照顧的習慣，例如：
+
+• 練習靜觀
+• 多做運動
+• 接觸大自然
+• 細味自己喜歡的事物
+• 做感興趣的活動
+• 學習新事物
+• 與人連繫和分享
+• 幫助有需要的人
+• 參與義工服務"
+wellbeing.result.low.title,Well-being is below average,身心靈健康低於平均水平
+wellbeing.result.low.description,"Your current physical, psychological, and spiritual well-being is below average, indicating that you may be subject to some physical and mental strain. You may feel tired, less positive and under-nurtured. You may also feel less connected with those around you and your surroundings.
+
+Whenever you feel physically and mentally exhausted, it is important to take care of your own well-being, and find ways to alleviate stress so that you gather strength to tackle life's challenges and live well.
+
+We encourage you to engage in nurturing activities consistently on a daily basis, such as:
+
+• Practise mindfulness
+• Exercise regularly
+• Connect with nature
+• Savour your favourite things
+• Do something you feel like doing
+• Learn new things
+• Meet and share feelings with people around you
+
+If you are currently facing emotional distress, it is recommended to seek professional help for further assessment and advice.","您現時的身心靈健康低於平均水平，反映您目前身心靈狀態可能正在受壓，較爲勞累和缺乏滋養，正向感受較少，與他人和社會的連繫感或較弱。
+
+在身心勞累之時，希望您能多關顧自己的狀態，適時緩解壓力，讓自己更有力量去應對生活上的挑戰。
+
+鼓勵您每天嘗試進行一些滋養活動，灌溉自己的身心靈，例如：
+
+• 練習靜觀
+• 多做運動
+• 接觸大自然
+• 細味自己喜歡的事物
+• 做感興趣的活動
+• 學習新事物
+• 與身邊人見面和分享感受
+
+如您目前正面對情緒困擾，建議尋求專業援助, 以獲取進一步評估及建議。"
+wellbeing.please_login,Please login first,請先登入
+wellbeing.please_try_again,Please try again later,請稍後再試
+wellbeing.error,Error,錯誤
+wellbeing.options.strongly_disagree,Strongly Disagree,非常不同意
+wellbeing.options.disagree,Disagree,不同意
+wellbeing.options.neutral,Neutral,一半半
+wellbeing.options.agree,Agree,同意
+wellbeing.options.strongly_agree,Strongly Agree,非常同意
+wellbeing.questions.q1,I feel happy and joyful,我感到開心快樂
+wellbeing.questions.q2,I have a healthy body,我有健康的身體
+wellbeing.questions.q3,I feel lively,我感到活力充沛
+wellbeing.questions.q4,I feel energetic,我覺得精力旺盛
+wellbeing.questions.q5,I feel calm and harmonious,我感到平靜和諧
+wellbeing.questions.q6,I care about what is happening in the society,我關心社會發生的事
+wellbeing.questions.q7,I treat others with a compassionate attitude,我以慈愛的態度對待別人
+wellbeing.questions.q8,I am satisfied with my life,我對自己的生活感到滿意
+wellbeing.questions.q9,I can focus on what I am doing,我能夠專注於正在做的事情
+wellbeing.questions.q10,I have enough energy to fulfill the demands of everyday life,我的體力能應付日常生活的要求
+wellbeing.questions.q11,I appreciate people around me for everything they have done to me,我感謝身邊人對我所做的一切
+wellbeing.questions.q12,I feel that I am part of the whole society,我覺得自己是整個社會的一部份
+wellbeing.questions.q13,I feel happy for the people around me if they live happily,我會為我身邊的人活得開心而感到快樂
+wellbeing.questions.q14,"If there is an opportunity, I will participate in activities to promote social change","如果有機會,我會參與活動去促進社會改變"
+wellbeing.questions.q15,I can accept the ups and downs of my life and let go of the unpleasant experiences of the past,我能接受生命中的起伏，放下過去的不快經歷
+wellbeing.questions.q16,I can control my emotions when something undesirable happens,在發生不如意的事情時，我能調節自己的情緒
+wellbeing.questions.q17,I feel connected when I hear stories of people I do not know,當我聽到我不認識的人的故事時，我能感到和他們的連繫
+wellbeing.questions.q18,"When I hear the unfortunate encounters of people that I don't know, I can feel their pain",當我聽到不認識的人的不幸遭遇時，我會感受到他們的傷痛
+wellbeing.questions.q19,"The environment is closely related to me (e.g. discrimination, environmental quality, social atmosphere, etc.)",環境與我是息息相關的(例如歧視、環境質素、社會氣氛等)
+wellbeing.questions.q20,"I think that everyone, regardless of gender, age, skin color or social class, should have equal opportunities and freedom of speech",我認為每個人，不論性別、年齡、膚色或階級有多不同，都應該擁有平等的機會和發言權
+sms_verification.required_title,Phone Verification Required,需要驗證電話
+sms_verification.required_message,Please verify your phone number before starting the mission,請先驗證您的電話號碼才能開始任務
+survey.required_title,Survey Required,需要填寫問卷
+survey.first_survey_required,You have completed 3 missions! Please complete the wellbeing survey to continue playing.,您已完成 3 次任務！請填寫健康指數問卷以繼續遊玩。
+survey.second_survey_required,You have completed more than 20 missions! Please complete another wellbeing survey to continue.,您已完成超過 20 次任務！請再次填寫健康指數問卷以繼續遊玩。
+survey.go_to_survey,Go to Survey,前往問卷
+mission.mission_tips,Mindfulness Tips,靜觀小​提示​
+mission.save_photo_instruction,Long press the image to save to album,長按圖片以儲存到相簿
+mission.navigate,View Route,查看路線
+mission.select_location,Select Location:,選擇地點：
+mission.nearest_location,Nearest Location,最近的地點
+mission.location_number,Location {{number}},地點 {{number}}
+mission.view_on_google_maps,View on Google Maps,在 Google Map 上查看
+mission.category.title,Mission Category,任務類別
+mission.category.all,All,全部
+mission.category.mtr,MTR,港鐵
+mission.category.thealchemistcafe,The Alchemist Cafe,牧羊少年咖啡館
+mission.category.cafe330,Cafe 330,cafe330及so330
+mission.category.eslite,Eslite,誠品書店
+mission.category.tamjai,Tam Jai,譚仔雲南米線
+mission.category.samgor,Sam Gor,譚仔三哥米線
+mission.view_details,View Mission Details,查看任務詳情
+mission.no_missions,No missions found,沒有找到任務
+mission.no_records,No mission records yet,暫無任務記錄
+mission.mission_intro,Mission Introduction,任務介紹
+mission.completed,Completed,完成
+mission.view_record_details,View Details,了解詳情
+mission.record_detail.title,Mission Completed,任務完成
+mission.record_detail.earned_stamp,Earned 1 Mission Stamp,獲得1個任務印花
+mission.record_detail.already_earned,You have already earned a stamp for this mission,此任務已經獲得過印花
+mission.record_detail.thank_you,-Thank you for participating-,-謝謝參與-
+mission.record_detail.view_progress,View Mission Progress,查看任務進度
+mission.record_detail.back_to_home,Back to Home,返回主頁
+mission.question_label,Question,問題
+mission.pen_color_note,Pen color is fixed to black,筆色固定為黑色
+mission.draw_object_instruction,Draw the outline of the object in your hand.,描繪出手中物件的外形。
+mission.drawing_complete,Done,畫好了
+mission.start_button.request_location,Get Location,取得定位
+mission.start_button.requesting_location,Getting Location...,取得定位中...
+mission.start_button.retry_location,Retry Location,重新取得定位
+mission.start_button.checking,Checking...,檢查中...
+mission.start_button.start_mission,Start Mission,開始任務
+mission.start_button.distance_from_mission,Approximately {{distance}} meters from mission location,距離任務地點約 {{distance}} 米
+mission.matching_game.moves,Moves,步數
+mission.matching_game.matched,Matched,已配對
+mission.matching_game.completed,Congratulations! You've completed the game!,恭喜！你已完成遊戲！
+mission.matching_game.completed_in,Completed in {{moves}} moves,用了 {{moves}} 步完成
+mission.complete,Complete Mission,完成任務
+mission.take_photo,Take Photo,拍照
+mission.retake,Retake,重新拍照
+mission.upload_photo,Upload Photo,上傳照片
+mission.audio_remaining_time,Remaining time: about {{seconds}} seconds,剩餘時間：約 {{seconds}} 秒
+mission.audio_completed,Audio playback completed,音頻已播放完畢
+mission.audio_ready,Ready to play audio,準備播放音頻
+mission.walking.tips,"Please start walking,
+we are tracking your movement distance","請開始步行，
+我們正在追蹤你的移動距離"
+mission.start_dialog.title,Ready to Start Mission,準備開始任務
+mission.start_dialog.message,"For your safety, please look around your surroundings before starting the game to ensure you are standing in a flat and unobstructed area.","為了您的安全，開始遊戲前請先環顧四周，
+確認您正處於平坦且無障礙的站立位置。"
+mission.start_dialog.confirm,Start,開始
+mission.not_active,This mission is currently not available,此任務暫時未開放
+mission.redeem,Redeem,兌換
+mission.redeeming,Redeeming...,兌換中...
+mission.please_enter_code,Please enter redemption code,請輸入兌換碼
+mission.redeem_success_first,Redemption successful! You've earned a stamp,兌換成功！你已獲得一個印花
+mission.redeem_success_already_completed,"Redemption successful! You've already completed this mission, no additional stamp earned",兌換成功！此任務已完成過，不會獲得額外印花
+mission.letter.to_future_self,"To Future Me,",給1年後的
+mission.tamjai.enter_code_label,Enter Code to Earn Stamp,輸入兌換碼獲取印花
+mission.tamjai.view_branches,View Store Locations,查看分店資料
+mission.video.about_description,Feeling feet on the ground restores bodily stability and balance.,感受雙腳與地面的接觸，有助重新建立身體的穩定感。這種觸覺覺察能減少飄忽與分心狀態，並協助身體在移動中保持平衡與安全感。
+mission.video.remaining_time,Remaining time:,剩餘時間:
+mission.video.remaining_time_unit,seconds,秒
+mission.video.completed,Completed,已完成
+mission.video.click_to_play,Click Play to Start Mission,點擊播放開始任務
+events.workshop_signup,Event Schedule,活動日程
+events.register_now,Register Now,立即報名
+events.event1.name,"Eslite Bookstore | ""Sense．To Live"" Art Exhibition",誠品書店｜《感．生活》藝術展
+events.event1.description,"Date: 2 March – 30 March
+Time: During store opening hours (Eslite Causeway Bay)
+
+Centred on the five senses — sight, sound, smell, taste and touch — the exhibition showcases original works by artists from the Recovery Art Development Programme, alongside a healing sound installation inspired by the song ""Coming and Going"". You are invited to slow down in the bookstore space and notice your emotions and bodily sensations through colours, lines and sound.","日期：3月2日 – 3月30日
+時間：誠品銅鑼灣店營業時間內
+
+以「視、聽、嗅、味、觸」為主題，展出復元藝術家原創作品，並設有療癒聲音裝置《來回》。誠邀您在書店空間中放慢腳步，透過顏色、線條與聲音，留意自身情緒與身體變化。"
+events.event2.name,"Eslite Exclusive | ""Returning to the Present through the Five Senses"" Talk",誠品限定活動｜用五感回到當下 座談會
+events.event2.description,"Date: 8 March
+Time: 2:00 – 3:00 PM
+
+A dialogue led by Clinical Psychologist Yau Yuen Sum from New Life and musician-artist Vicky Fung, exploring how sensory practices can deepen awareness of our surroundings and help us reconnect with the present moment.","日期：3月8日
+時間：下午2:00 – 3:00
+
+由新生會臨床心理學家丘宛鑫及音樂人及藝術家馮穎琪對談，探討如果透過五感練習，加深對身邊事物的覺察及享受當下。"
+events.event3.name,Eslite Exclusive | Mindful Breathing Experience Workshop,誠品限定活動｜靜觀呼吸體驗工作坊
+events.event3.description,"Date: 8 March
+Time: 3:00 – 3:30 PM
+
+Led by Clinical Psychologist Yau Yuen Sum, this workshop guides participants through breathing and sound-based practices to reset amidst a busy pace of life and return to the present moment.","日期：3月8日
+時間：下午3:00 – 3:30
+
+由新生會臨床心理學家丘宛鑫帶領，透過呼吸與聲音練習，在繁忙節奏中重整狀態，回到當下。"
+events.event4.name,The Alchemist Café (First Session) | Five-Senses Mindful Eating Workshop,牧羊少年咖啡館 (第一場)｜五感慢食工作坊
+events.event4.description,"Date: 15 March
+Time: 3:00 – 3:30 PM
+
+Starting with a cup of coffee, participants practise slowing down their eating pace and using taste and smell to observe bodily sensations, turning a meal into a quiet moment of dialogue with oneself.","日期：3月15日
+時間：下午3:00 – 3:30
+
+從一杯咖啡開始，練習放慢進食節奏，透過味覺與嗅覺覺察身體狀態，讓一餐成為與自己對話的時間。"
+events.event5.name,The Alchemist Café (Second Session) | Five-Senses Mindful Eating Workshop,牧羊少年咖啡館 (第二場)｜五感慢食工作坊
+events.event5.description,"Date: 15 March
+Time: 3:45 – 4:15 PM
+
+Starting with a cup of coffee, participants practise slowing down their eating pace and using taste and smell to observe bodily sensations, turning a meal into a quiet moment of dialogue with oneself.","日期：3月15日
+時間：下午3:45-4:15
+
+從一杯咖啡開始，練習放慢進食節奏，透過味覺與嗅覺覺察身體狀態，讓一餐成為與自己對話的時間。"
+events.event6.name,Online Parent-Child Mindfulness Talk,網上親子靜觀講座
+events.event6.description,"An online session designed for parents and children to explore simple mindfulness practices together, fostering emotional awareness and strengthening family connection through everyday moments.",一場為家長與孩子而設的網上講座，透過簡單的靜觀練習，一同培養情緒覺察能力，並在日常生活中加強親子之間的連結與理解。
+events.event7.name,330 Day 2026 Finale Event | Five-Senses Living Festival,330 Day 2026 壓軸活動｜五感生活祭
+events.event7.description,"Date: 28 – 29 March
+Time: 10:00 AM – 5:00 PM
+Venue: The Wai, Tai Wai
+
+Bringing together a month of sensory experiences, the festival features themed interactive booths and a closing ceremony, marking the finale of the ""Sense．To Live"" journey.","日期：3月28日 – 3月29日
+時間：上午10:00 – 下午5:00
+地點：大圍圍方
+
+集結整個三月的五感體驗，設有多個主題互動攤位及閉幕典禮，一起為《感．生活》旅程劃下句號。"
+rewards.page_title,Mission Progress,任務獎賞
+rewards.redeem_button,Click to Redeem Rewards,點擊兌換禮品
+rewards.view_redemption_location,View Redemption Location,查看兌換地點
+rewards.view_redemption_method,View Redemption Method,查看兌換方式
+rewards.redeem_product,Redeem Product,兌換禮品
+rewards.redeem_coupon,Get Redemption Code,取得兌換碼
+rewards.scan_instruction,"Please scan the 330
+store QR code
+to confirm redemption","請掃描330
+店舖二維碼
+以確認換領禮品"
+rewards.redeem_success,Product redeemed successfully!,禮品兌換成功！
+rewards.coupon_redeem_instruction,Your redemption code:,您的兌換碼：
+rewards.copy_code,Copy Code,複製代碼
+rewards.code_copied,Code copied to clipboard!,代碼已複製到剪貼板！
+rewards.unlock_stamp_title,Unlock Mission Stamps,前往任務換領印花
+rewards.unlock_stamp_message,Complete more missions to unlock stamps,需完成更多任務解鎖印花
+rewards.search_missions,Search Missions,搜尋任務
+rewards.already_redeemed,Redeemed Successfully,已成功換領
+rewards.redemption_time,Successful Redemption Time: ,成功換領時間：
+members.login.title,Login,登入
+members.login.account,Email / Phone Number,電子郵件 / 電話號碼
+members.login.password,Password,密碼
+members.login.login_button,Login,登入
+members.login.register_button,Register,註冊
+members.login.forgot_password,Forgot Password?,忘記密碼？
+members.login.account_required,Account is required,請輸入帳戶
+members.login.password_required,Password is required,請輸入密碼
+members.register.title,Register,註冊
+members.register.avatar,Avatar,頭像
+members.register.name,Name,姓名
+members.register.email,Email,電郵地址
+members.register.confirm_email,Confirm Email,確認電郵地址
+members.register.gender,Gender,性別
+members.register.age,Age,年齡
+members.register.password,Password,密碼
+members.register.confirm_password,Confirm Password,確認密碼
+members.register.next_button,Next,下一步
+members.register.back_button,Back,返回
+members.register.male,Male,男
+members.register.female,Female,女
+members.register.prefer_not_to_say,Prefer not to say,不願意透露
+members.phone_verification.title,Phone Verification,電話驗證
+members.phone_verification.mobile_number,Mobile Number,手機號碼
+members.phone_verification.verification_code,Verification Code,驗證碼
+members.phone_verification.send_code,Send Code,發送驗證碼
+members.phone_verification.resend_after,Resend after,秒後可重新發送
+members.phone_verification.submit_code,Submit Code,提交驗證碼
+members.phone_verification.code_sent_success,Verification code sent successfully,驗證碼發送成功
+members.phone_verification.your_code_is,Your verification code is,您的驗證碼是
+members.phone_verification.send_code_failed,Failed to send verification code. Please try again.,發送驗證碼失敗，請重試
+members.phone_verification.invalid_code,Invalid verification code. Please try again.,驗證碼無效，請重試
+members.phone_verification.invalid_phone_number,"Please enter a valid Hong Kong phone number (8 digits starting with 5, 6, 8, or 9)",請輸入有效的香港手機號碼（8位數字，以5、6、8或9開頭）
+members.phone_verification.invalid_code_length,Verification code must be 6 digits,驗證碼必須為6位數字
+members.phone_verification.sending_sms_failed,Failed to send verification code SMS. Please try again.,發送驗證碼短信失敗，請稍後再試
+members.profile.title,Profile,個人資料
+members.profile.name,Name,名稱
+members.profile.email,Email,電郵
+members.profile.phone,Phone Number,電話號碼
+members.profile.reset_password,Reset Password,重設密碼
+members.profile.avatar_alt,Profile Picture,個人頭像
+members.forgot_password.title,Forgot Password,忘記密碼
+members.forgot_password.email,Email,電郵地址
+members.forgot_password.send_button,Send,發送
+members.forgot_password.instructions,Instructions to reset your password will be sent to the email address provided if it is associated with an account.,重設密碼的指示將發送到您提供的電郵地址（如該地址與帳戶關聯）
+members.forgot_password.email_sent_success,"If the email is associated with an account, instructions to reset your password have been sent.",如果該電郵地址與帳戶關聯，重設密碼的指示已發送
+members.forgot_password.email_sent_failed,Failed to send reset password email. Please try again later.,發送重設密碼電郵失敗，請稍後再試
+members.change_password.title,Change Password,更改密碼
+members.change_password.password,Password,密碼
+members.change_password.confirm_password,Confirm Password,確認密碼
+members.change_password.change_button,Change Password,更改密碼
+members.change_password.changing,Changing Password...,更改中...
+members.change_password.success_title,Password Changed,密碼已更改
+members.change_password.success_message,Your password has been changed successfully.,您的密碼已成功更改
+members.change_password.failed_message,Failed to change password. Please try again.,更改密碼失敗，請重試
+members.register_success.title,Welcome to Join Us,歡迎加入我們
+members.register_success.welcome,Welcome to Join Us,歡迎加入我們
+members.register_success.thanks_message,"Thanks for your
+registration","感謝您的
+註冊"
+members.register_success.back_to_home,Back To Home,返回主頁
+members.register_success.terms_of_service,Terms of Service,服務條款
+members.register_success.privacy_policy,Privacy Policy,私隱政策
+members.validation.required,This field is required,此欄位為必填
+members.validation.invalid,Invalid format,格式不正確
+members.validation.mismatch,The two entries do not match,兩次輸入不一致
+members.validation.age_required,Age is required,請輸入年齡
+members.validation.age_invalid,Please enter a valid age,請輸入有效的年齡
+members.validation.age_range,Age must be between 1 and 120,年齡必須介乎1至120歲
+members.validation.password_required,Password is required,請輸入密碼
+members.validation.password_min_length,Password must be at least 8 characters,密碼至少需要8個字符
+members.validation.password_format,Password must contain at least one letter and one number,密碼必須包含至少一個字母和一個數字
+members.validation.confirm_password_required,Please confirm your password,請確認密碼
+members.validation.password_mismatch,The two passwords do not match,兩次輸入的密碼不一致
+language.zh-HK,繁體中文,繁體中文
+language.en,English,English
+error.title,Error,錯誤
+error.required,This field is required,此欄位為必填
+error.unable_to_complete_mission,"Unable to complete mission, please try again",無法完成任務，請稍後再試
+error.invalid_email,Please enter a valid email address,請輸入有效的電郵地址
+error.sending_email_failed,"Failed to send email, please try again later",發送電郵失敗，請稍後再試
+error.invalid_or_expired_token,Invalid or expired verification link,無效或已過期的驗證連結
+error.phone_already_verified,Phone number already verified,電話號碼已驗證
+error.missing_parameters,Missing required parameters,缺少必要參數
+error.unknown,"An unknown error occurred, please try again later",發生未知錯誤，請稍後再試
+error.member.email_exist,This email address is already in use,此電郵地址已被使用
+error.member.phone_exist,This phone number is already in use,此電話號碼已被使用
+error.member.not_found,Member not found,找不到會員資料
+error.member.invalid_password,Invalid password,密碼錯誤
+error.member.email_required,Email address is required,需要提供電郵地址
+error.product.id_required,Product ID is required,需要產品編號
+error.product.not_found,Product not found,找不到此產品
+error.product.out_of_stock,This product is out of stock,此產品已售罄
+error.password.required,Password is required,需要密碼
+error.password.incorrect,Incorrect password,密碼錯誤
+error.redemption.already_redeemed,You have already redeemed this product,您已經兌換過此產品
+error.redemption.insufficient_rewards,You don't have enough stamps to redeem this product. Please complete more missions to earn stamps,您的印章數量不足，無法兌換此產品。請完成更多任務以獲得印章
+error.redemption.no_available_codes,"All gifts have been redeemed
+Please visit the store to collect a mysterious gift","禮物已換領完畢
+請到​店領​取神秘​禮物"
+error.redemption_code.not_found,Redemption code not found,兌換碼不存在
+error.redemption_code.invalid_type,Invalid redemption code type,兌換碼類型不符
+error.redemption_code.already_used,This redemption code has already been used,此兌換碼已被使用
+error.code.required,Please enter redemption code,請輸入兌換碼
+error.type.required,Mission type is required,缺少任務類型
+error.mission.not_found,Mission not found,找不到對應的任務
+error.phone_verification.code_mismatch,Verification code does not match or has expired,驗證碼不匹配或已過期
+error.phone_verification.too_many_requests,"Please try again later, you are sending verification codes too frequently",請稍後再試，您發送驗證碼的頻率過高
+error.phone_verification.captcha_invalid,"Captcha verification failed, please try again",驗證碼無效，請重試
+error.phone_verification.sending_sms_failed,Failed to send verification code SMS. Please try again later,發送驗證碼短信失敗，請稍後再試
+error.gps.geolocation_not_supported,Your browser does not support geolocation,您的瀏覽器不支持定位功能
+error.gps.invalid_location_format,Invalid mission location data format,任務位置資料格式錯誤
+error.gps.out_of_range,You are not within the mission range,你不在任務範圍內
+error.gps.out_of_range_hint,"This may be due to GPS inaccuracy. Please ensure you are near the mission location, or try moving to an open area for better GPS signal. You can also retry after a few moments.",這可能是由於GPS定位不準確所致。請確保你在任務地點附近，或嘗試移動到空曠地方以獲得更好的GPS訊號。你也可以稍後再重試。
+error.gps.permission_denied,"Location permission denied, please allow location permission in your browser settings",定位權限被拒絕，請在瀏覽器設置中允許定位權限
+error.gps.permission_denied_ios,"Location permission denied. Please:
+1. Go to iOS Settings → Safari → Location Services → Allow
+2. Or tap 'aA' in Safari address bar → Website Settings → Location → Allow","定位權限被拒絕。請前往：
+1. iOS 設定 → Safari → 定位服務 → 允許
+2. 或在 Safari 地址欄點擊 'aA' → 網站設定 → 定位 → 允許"
+error.gps.position_unavailable,Unable to obtain location information,無法取得位置信息
+error.gps.timeout,Location request timed out,定位請求超時
+error.gps.unknown_error,"Failed to obtain location, please try again",取得定位失敗，請重試
+error.gps.view_solution,Click to View Solution,點擊了解解決方案
+gps_guide.title,GPS Location Setup Guide,GPS 定位設定指南
+gps_guide.description,"If you are unable to use GPS location features, please follow the setup instructions below based on your device type.",如果您無法正常使用 GPS 定位功能，請根據您的設備類型參考以下設定步驟。
+gps_guide.precise_location_warning,"⚠️ Important: Please make sure to enable 'Precise Location' or 'Accurate Location' feature, otherwise you may not be able to obtain accurate coordinates, which will prevent you from starting missions!",⚠️ 重要提示：請務必開啟「精準位置」或「精確位置」功能，否則可能無法獲取精準座標，導致無法開啟任務！
+gps_guide.ios.title,iOS Device Setup,iOS 設備設定
+gps_guide.ios.method1.title,Method 1: Configure via System Settings,方法一：透過系統設定
+gps_guide.ios.method1.step1,Open the 'Settings' app,開啟「設定」應用程式
+gps_guide.ios.method1.step2,Scroll down and select 'Privacy & Security',向下滾動並選擇「私隱與安全性」
+gps_guide.ios.method1.step3,Select 'Location Services',選擇「定位服務」
+gps_guide.ios.method1.step4,"Ensure 'Location Services' is turned on, find 'Safari', and set it to 'While Using the App' or 'Always'",確保「定位服務」已開啟，並找到「Safari 瀏覽器」，設定為「使用 App 期間」或「永遠」
+gps_guide.ios.method1.step5,"After selecting Safari, ensure 'Precise Location' toggle is turned on",點選 Safari 後，確保「精準位置」開關已開啟
+gps_guide.ios.method1.precise_location_note,"💡 Important: You must enable 'Precise Location' option, otherwise the system will only provide approximate location information, which may prevent you from starting missions.",💡 重要：必須開啟「精準位置」選項，否則系統只會提供模糊的位置資訊，可能無法開啟任務。
+gps_guide.ios.method2.title,Method 2: Configure via Safari Browser,方法二：透過 Safari 瀏覽器設定
+gps_guide.ios.method2.step1,Open Safari browser and navigate to this website,開啟 Safari 瀏覽器，進入本網站
+gps_guide.ios.method2.step2,Tap the 'aA' icon on the left side of the address bar,點擊地址欄左側的「aA」圖示
+gps_guide.ios.method2.step3,Select 'Website Settings',選擇「網站設定」
+gps_guide.ios.method2.step4,"Under 'Location', select 'Allow'",在「定位」選項中選擇「允許」
+gps_guide.ios.method2.precise_location_note,💡 Important: Make sure to enable 'Precise Location' to get accurate geographic coordinates for successfully starting missions.,💡 重要：請確保同時開啟「精準位置」，才能獲取準確的地理位置，以便順利開啟任務。
+gps_guide.ios.note,"Note: If you are using the iOS app version, go to 'Settings' → 'Privacy' → 'Location Services', find the app name and allow location access.",注意：如果您使用的是 iOS 應用程式版本，請在「設定」→「隱私權」→「定位服務」中找到應用程式名稱並允許定位權限。
+gps_guide.android.title,Android Device Setup,Android 設備設定
+gps_guide.android.method1.title,Method 1: Configure via System Settings,方法一：透過系統設定
+gps_guide.android.method1.step1,Open the 'Settings' app,開啟「設定」應用程式
+gps_guide.android.method1.step2,Select 'Location' or 'Location Services',選擇「位置」或「定位服務」
+gps_guide.android.method1.step3,Ensure location services are turned on,確保位置服務已開啟
+gps_guide.android.method1.step4,Find 'App permissions' or 'App access',找到「應用程式權限」或「應用程式存取權」
+gps_guide.android.method1.step5,Find your browser or app and allow location access,找到您的瀏覽器或應用程式，並允許存取位置資訊
+gps_guide.android.method1.step6,"After selecting the app, ensure 'Precise Location' or 'Use Precise Location' is enabled (if available)",點選應用後，確保選擇「精確位置」或「使用精確位置」（若有此選項）
+gps_guide.android.method1.precise_location_note,💡 Important: Android 12 and higher versions support 'Precise Location' settings. Please enable this feature for the best location accuracy.,💡 重要：Android 12 及更高版本支持「精確位置」設定，請確保開啟此功能以獲取最佳定位精度。
+gps_guide.android.method2.title,Method 2: Configure via Browser,方法二：透過瀏覽器設定
+gps_guide.android.method2.step1,Open your browser (Chrome or others) and navigate to this website,開啟瀏覽器（Chrome 或其他），進入本網站
+gps_guide.android.method2.step2,Tap the lock or info icon on the left side of the address bar,點擊地址欄左側的鎖頭或資訊圖示
+gps_guide.android.method2.step3,Select 'Permissions' or 'Site settings',選擇「權限」或「網站設定」
+gps_guide.android.method2.step4,Find 'Location' and set it to 'Allow',找到「位置」並設定為「允許」
+gps_guide.android.method2.precise_location_note,"💡 Important: If there is a 'Precise Location' or 'Use Precise Location' option, please enable it to ensure accurate positioning.",💡 重要：如果有「精確位置」或「使用精確位置」選項，請一併開啟，以確保能準確定位。
+gps_guide.android.note,"Note: Different Android versions and manufacturers may have slightly different settings interfaces, but the steps are generally similar.",注意：不同 Android 版本和製造商的設定介面可能略有不同，但步驟大致相同。
+gps_guide.troubleshooting.title,Common Issues & Solutions,常見問題排解
+gps_guide.troubleshooting.issue1.title,Location still not working after granting permission,已允許權限但仍無法定位
+gps_guide.troubleshooting.issue1.solution1,Ensure your device's GPS function is turned on (usually accessible via the notification drawer),確保您的設備 GPS 功能已開啟（通常在下拉通知欄中可快速開啟）
+gps_guide.troubleshooting.issue1.solution2,Try closing and reopening the browser or app,嘗試關閉並重新開啟瀏覽器或應用程式
+gps_guide.troubleshooting.issue1.solution3,"Check if other apps are using GPS resources, temporarily close other location-related apps",檢查是否有其他應用程式佔用 GPS 資源，暫時關閉其他定位相關應用
+gps_guide.troubleshooting.issue2.title,Inaccurate location,定位不準確
+gps_guide.troubleshooting.issue2.solution1,"Move to an open outdoor area, avoid tall buildings or indoor environments that may interfere with signals",移動到開闊的戶外空間，避免高樓大廈或室內環境影響訊號
+gps_guide.troubleshooting.issue2.solution2,Turn on Wi-Fi and mobile data to improve location accuracy,開啟 Wi-Fi 和行動數據可以提高定位精準度
+gps_guide.troubleshooting.issue2.solution3,Wait a few minutes for the device to acquire more GPS satellites,等待幾分鐘讓設備搜尋到更多 GPS 衛星
+gps_guide.troubleshooting.issue3.title,Need to reauthorize every time,每次都要重新授權
+gps_guide.troubleshooting.issue3.solution1,Check if your browser is set to clear site permissions when browsing history is cleared,檢查瀏覽器是否設定為清除瀏覽記錄時刪除網站權限
+gps_guide.troubleshooting.issue3.solution2,Add this website to your browser's 'Allow List' or 'Trusted Sites',在瀏覽器設定中將本網站加入「允許清單」或「受信任的網站」
+gps_guide.troubleshooting.issue4.title,Android shows 'This site can't ask you to grant permission',Android 顯示『這個網站無法要求你授予權限』
+gps_guide.troubleshooting.issue4.solution1,"Close dialog boxes or overlay windows from other apps, as they may block permission requests",關閉其他應用程式的對話框或重疊視窗，這些可能會阻擋權限請求
+gps_guide.troubleshooting.issue4.solution2,In Chrome browser: Settings > Advanced > Site settings > Location,在 Chrome 瀏覽器中：設定 > 進階 > 網站設定 > 位置
+gps_guide.troubleshooting.issue4.solution3,Add the target website to the blocked list,將目標網址添加到封鎖清單
+gps_guide.troubleshooting.issue4.solution4,Then tap the website in the blocked list and select 'Allow',然後在封鎖清單中點選該網址，再選擇『允許』
+gps_guide.faq.title,Frequently Asked Questions,常見問題
+gps_guide.faq.q1.question,Why do I need GPS location?,為什麼需要使用 GPS 定位？
+gps_guide.faq.q1.answer,"Some missions require confirmation that you are at a specific location before starting, to ensure you can fully experience the activity content.",部分任務需要確認您在指定地點才能開始，這是為了確保您能夠完整體驗活動內容。
+gps_guide.faq.q2.question,Will my location information be saved?,我的位置資訊會被保存嗎？
+gps_guide.faq.q2.answer,We only use location information for verification when you execute missions and do not permanently save your location records. We value your privacy and security.,我們只會在您執行任務時使用位置資訊進行驗證，不會永久保存您的位置記錄。我們重視您的隱私安全。
+gps_guide.faq.q3.question,Can I participate using a desktop computer?,可以使用桌面電腦參與嗎？
+gps_guide.faq.q3.answer,We recommend using a GPS-enabled smartphone or tablet for the best experience. Some desktop computers may not support accurate location services.,建議使用具有 GPS 功能的手機或平板電腦參與活動，以獲得最佳體驗。部分桌面電腦可能不支援精確定位。
+gps_guide.faq.q4.question,What if it still doesn't work after setup?,如果設定後仍無法使用怎麼辦？
+gps_guide.faq.q4.answer,"Please try restarting your device, or contact our customer service team for assistance.",請嘗試重新啟動設備，或聯繫我們的客戶服務團隊尋求協助。
+qa.title,Q&A,常見問題
+qa.section_journey,Journey Guide,旅程指南
+qa.section_philosophy,Event Philosophy & Five Senses Design,活動理念與五感設計
+qa.section_missions,Mission Questions,任務問題
+qa.section_gps,GPS Settings,GPS 設定
+qa.section_web,Website Functions,網頁功能
+qa.section_rewards,Gifts & Rewards,禮物與獎勵
+qa.section_safety,Safety & Code of Conduct,安全與行為守則
+qa.journey.q1.question,"What is the ""330 Day City Five Senses Journey""?",甚麼是「330 Day 城市五感旅程」？
+qa.journey.q1.answer,"The ""330 Day City Five Senses Journey"" is an urban interactive experience themed around the five senses (sight, hearing, smell, taste, and touch). Participants enter different communities, complete diverse missions, train their awareness, and rediscover familiar yet overlooked details of the city in everyday scenes.
+
+Through exploring street scenery, community sounds, local scents, and human warmth, participants reconnect not only with themselves but also with the city and community, focus on the present, and rediscover a healthy rhythm of mind, body, and spirit.","「330 Day 城市五感旅程」是一個以五感（視覺、聽覺、嗅覺、味覺、觸覺）為主題的城市互動體驗活動。參加者透過走進不同社區、完成多元任務，訓練覺察力，在日常場景中重新認識熟悉卻被忽略的城市細節。
+
+透過探索街道風景、社區聲音、地方氣味與人情溫度，參加者不但重新連結自己，也重新連結城市與社區，專注當下，重拾健康身心靈的節奏。"
+qa.journey.q2.question,How do I start participating?,如何開始參加活動？
+qa.journey.q2.answer,"Simply visit the designated 330 Day mobile webpage, register an account, and tap ""Find Nearby Missions"" to start, or browse the mission list to enter a mission. No app download is required.",只需進入 330 Day 指定手機網頁，註冊帳戶後，按「查看附近的任務」，即可開始任務，或到任務列表進入任務，毋須下載應用程式。
+qa.journey.q3.question,Do I need to register or pay?,是否需要報名或付費？
+qa.journey.q3.answer,All activities are free to participate.,所有活動皆免費參加。
+qa.journey.q4.question,Who is the event suitable for?,活動適合甚麼人參加？
+qa.journey.q4.answer,People of all ages are welcome to join. Some missions involve walking or outdoor activities; please participate according to your physical condition.,任何年齡人士都可參加。部分任務涉及步行或戶外活動，建議按個人身體狀況參與。
+qa.journey.q5.question,Can I complete missions more than once?,可以重複完成任務嗎？
+qa.journey.q5.answer,"Each mission counts only once for stamp records, but you are welcome to revisit locations and experience them again.",每項任務只會計算一次印章紀錄，但您可重遊地點，再次體驗。
+qa.philosophy.q1.question,Why use the five senses as the event theme?,為何以五感作為活動主題？
+qa.philosophy.q1.answer,"The five senses are the foundation of human interaction with the environment. By training awareness of sight, hearing, smell, taste, and touch, participants are encouraged to slow down and reconnect with themselves and the city. Multiple psychology and neuroscience studies indicate that focused sensory practices can help reduce stress, improve concentration, and promote emotional stability.",五感是人與環境互動的基礎。透過訓練視覺、聽覺、嗅覺、味覺及觸覺的覺察能力，鼓勵參加者放慢節奏，重新連結自己與城市。多項心理學及神經科學研究指出，專注於感官經驗的練習有助降低壓力、提升專注力及促進情緒穩定。
+qa.philosophy.q2.question,"What does ""awareness"" mean?",何謂「覺察」？
+qa.philosophy.q2.answer,"Awareness means consciously noticing current bodily sensations, emotional changes, and environmental information without rushing to judge or react.",覺察是有意識地留意當下的身體感受、情緒變化及環境訊息，而不急於作出評價或反應。
+qa.philosophy.q3.question,"What is the ""330 Micro-Break""?",什麼是「330 小休息」？
+qa.philosophy.q3.answer,"The ""330 Micro-Break"" encourages setting aside a little time each day for body (3), mind (3), and spirit (0), using simple and consistent habits to help relieve stress and stabilize emotions.",「330 小休息」鼓勵每天為身（3）、心（3）、靈（0）留出一點時間，透過簡單而持續的習慣，幫助舒緩壓力與穩定情緒。
+qa.philosophy.q4.question,"After completing missions, how can I extend the practice into daily life?",完成任務後，如何延伸至日常生活？
+qa.philosophy.q4.answer,"You can integrate five-sense observation into everyday life—for example, mindfully savoring the taste of a meal, noticing layers of city sounds, or feeling different textures, gradually cultivating a habit of awareness.",可將五感觀察方式融入日常，例如專心感受一餐食物的味道、留意城市聲音層次或觸摸不同材質的感受，逐步培養覺察習慣。
+qa.missions.q1.question,How are missions categorized?,任務如何分類？
+qa.missions.q1.answer,"Missions are categorized by the five senses and come in various formats, including observation questions, multiple-choice questions, photo tasks, matching games, or GPS location tasks.",任務按五感分類，並設有不同形式，例如：觀察題、多項選擇題、拍照任務、對對碰遊戲或GPS定位任務。
+qa.missions.q2.question,Is there a time limit for missions?,任務是否有時間限制？
+qa.missions.q2.answer,There is no time limit for missions; participants can complete them at their own pace.,任務沒有時間限制，參加者可根據自己的節奏完成任務。
+qa.missions.q3.question,How do I confirm a mission is successfully completed?,完成任務後如何確認成功？
+qa.missions.q3.answer,"A ""Mission Completed"" message will appear on screen, and a stamp will be automatically recorded.",成功後畫面會顯示「完成任務」提示，同時自動記錄印章。
+qa.missions.q4.question,Are there right or wrong answers for missions?,任務有否對與錯之分？
+qa.missions.q4.answer,Missions do not have right or wrong answers. Participants simply need to record their feelings in the moment; the goal is to observe and reflect.,任務沒有對與錯，參加者只需記下當刻的感受，鼓勵透過觀察與思考完成每個任務。
+qa.gps.q1.question,Why do I need to enable location services?,為何需要開啟定位功能？
+qa.gps.q1.answer,Each mission requires confirmation that you have arrived at the nearby mission area before it can begin.,每個任務都需要確認您已抵達附近任務範圍方能開始。
+qa.gps.q2.question,How do I enable location services?,如何開啟定位？
+qa.gps.q2.answer,"Please allow ""Location Access"" in your mobile browser and ensure your phone's GPS is activated.",請在手機瀏覽器中允許「定位存取」，並確保手機GPS已啟動。
+qa.gps.q3.question,What should I do if I still cannot complete the mission after arriving?,到達現場仍無法完成任務怎麼辦？
+qa.gps.q3.answer,"Try refreshing the page, or check whether your location mode is set to ""High Accuracy"".",請嘗試重新整理頁面，或確認定位模式是否設為「高精準度」。
+qa.gps.q4.question,Will my location be tracked continuously?,是否會長期追蹤我的位置？
+qa.gps.q4.answer,The system only reads location data during mission execution and does not store your movements long-term.,系統只在任務進行時讀取定位資料，不會長期儲存個人行蹤。
+qa.gps.q5.question,Can GPS be used at indoor venues?,室內場地是否可以使用GPS？
+qa.gps.q5.answer,Some indoor venues may experience location deviations. Please try refreshing the page.,部分室內場地可能出現定位偏差，請嘗試重新整理頁面。
+qa.web.q1.question,Does the website require an app download?,網頁需要下載App嗎？
+qa.web.q1.answer,No app download is required; simply participate via your mobile browser.,毋須下載App，只需透過手機瀏覽器即可參與。
+qa.web.q2.question,How can I view completed missions?,如何查看已完成任務？
+qa.web.q2.answer,"Go to the ""Mission Records"" page to view your completed missions.",進入「任務記錄」頁面，可查看已完成任務。
+qa.web.q3.question,What should I do if the website is not working?,如果網頁運行不到怎麼辦？
+qa.web.q3.answer,We recommend using the latest version of your browser and maintaining a stable internet connection.,建議使用最新版本瀏覽器，並保持穩定網絡連線。
+qa.web.q4.question,Will changing my phone affect my records?,更換手機是否會影響紀錄？
+qa.web.q4.answer,The event has an account login function; simply log in with the same method to retain your records.,活動設有帳戶登入功能，只需要使用同一登入方式便可保留紀錄。
+qa.rewards.q1.question,How do I redeem souvenirs?,如何換領紀念品？
+qa.rewards.q1.answer,"After completing the specified number of missions, please follow the instructions to visit the designated locations below and present the redemption page to claim your gift. Note: some vouchers must be redeemed through a partner's designated app.
+
+Designated locations:
+
+cafe330 Kwong Wah Hospital
+25 Waterloo Road, Yau Ma Tei, Kowloon (New Block, G/F Atrium)
+Opening hours: 7:00 am – 8:00 pm
+
+cafe330 Caritas Medical Centre
+111 Wing Hong Street, Sham Shui Po, Kowloon (Wai Shun Building, 4/F)
+Opening hours: 7:30 am – 8:30 pm
+
+cafe330 Prince of Wales Hospital
+30-32 Ngan Shing Street, Sha Tin, New Territories (Main Block & Trauma Centre, 1/F)
+Opening hours: 7:00 am – 8:30 pm
+
+cafe330 HKU
+Room 203, 2/F, Chong Yuet Ming Cultural Centre, HKU, Pokfulam, Hong Kong
+Opening hours: Mon–Fri: 7:30 am – 8:30 pm | Sat & PH: 10:00 am – 6:00 pm | Sun: Closed
+
+so330
+Shop A–C, G/F, Taiyuen Building, 38 Tai Yuen Street, Wan Chai, Hong Kong
+Opening hours: Mon–Fri: 7:30 am – 6:30 pm | Sat, Sun & PH: 10:00 am – 6:30 pm","完成指定數量任務後，除有部份禮券需在合作夥伴指定應用程式換取外，請跟隨指示到以下地點出示換領獎品頁面，換領獎品。
+
+指定地點包括：
+
+cafe330 廣華醫院
+九龍油麻地窩打老道25號廣華醫院新大樓地下大堂中庭
+營業時間：上午7:00 – 晚上8:00
+
+cafe330 明愛醫院
+九龍深水埗永康街111號明愛醫院懷信樓4樓
+營業時間：上午7:30 – 晚上8:30
+
+cafe330 威爾斯親王醫院
+新界沙田銀城街30-32號威爾斯親王醫院住院主樓暨創傷中心1樓
+營業時間：上午7:00 – 晚上8:30
+
+cafe330 香港大學
+香港薄扶林香港大學莊月明文娛中心2樓203室
+營業時間：星期一至五：上午7:30 – 下午8:30
+星期六及公眾假期：上午10:00 – 下午6:00
+星期日：休息
+
+so330
+香港灣仔太原街38號太源閣地下A-C舖
+營業時間：星期一至五：上午7:30 – 下午6:30
+星期六、日及公眾假期：上午10:00 – 下午6:30"
+qa.rewards.q2.question,Is there a limited quantity of gifts?,禮品是否有限量？
+qa.rewards.q2.answer,Gifts are limited in quantity and available while stocks last.,禮品數量有限，換完即止。
+qa.rewards.q3.question,Is there a deadline for redeeming gifts?,換領禮品有否期限？
+qa.rewards.q3.answer,All gifts must be redeemed at the designated locations on or before 30 April 2026. Some gifts will be available for redemption after 20 March; please refer to the instructions on the gifts page.,所有禮品需在2026年4月30日或之前到指定地方換領，部分禮品將在3月20日後開始換領，敬請細閱禮品頁面內的說明。
+qa.safety.q1.question,Can I block passageways or gather during the event?,參與活動期間，是否可以阻礙通道或聚集停留？
+qa.safety.q1.answer,"No. Participants must not block pedestrian passageways, entrances/exits or public spaces, nor gather in ways that cause congestion. Please ensure normal passage for others is not affected.",不可。參與者不得阻塞行人通道、出入口或公共空間，亦不應聚集造成擠塞。請確保不影響他人正常通行。
+qa.safety.q2.question,"Can I touch, lean on, or use public facilities?",是否可以觸碰、倚靠或使用公共設施？
+qa.safety.q2.answer,"Except under normal usage conditions, participants must not touch, climb, or lean on public facilities. Event missions do not involve any facility operation; please comply with venue rules.",除正常使用情況外，不得觸碰、攀爬或倚靠公共設施。活動任務不涉及任何設施操作，請遵守場地規則。
+qa.safety.q3.question,What should I be aware of when doing photography or video tasks?,進行拍照或錄影任務時需要注意什麼？
+qa.safety.q3.answer,"Please avoid obstructing others or disrupting public order, and do not perform dangerous actions. Respect others' privacy when photographing and do not photograph individuals without their consent.",請避免阻礙他人通行或影響公共秩序，不得進行危險動作。拍攝時應尊重他人私隱，未經同意不得拍攝他人肖像。
+qa.safety.q4.question,Do minors need to be accompanied when participating?,未成年人參與活動是否需要陪同？
+qa.safety.q4.answer,"Participants under 12 years of age are recommended to be accompanied by a parent or guardian, who should assess safety conditions on site.",建議12歲以下參加者由家長或監護人陪同參與，並由監護人自行評估現場安全情況。
+contact.title,Contact Us,聯絡我們
+contact.description,"If you have any enquiries, please contact us.",如有查詢，請聯絡我們。
+contact.email_label,Email,電郵
+contact.email,dayday330@nlpra.org.hk,dayday330@nlpra.org.hk
+contact.whatsapp_label,WhatsApp,WhatsApp
+contact.whatsapp,Start a chat,開始對話

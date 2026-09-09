@@ -1,0 +1,97 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* https://mui.com/material-ui/customization/z-index/ */
+.swal2-container {
+  /* looks production env will overwrite this style, so, add important */
+  z-index: 1501 !important;
+}
+.swal2-modal {
+  border-radius: 16px !important;
+}
+.swal2-actions {
+  flex-direction: column-reverse;
+  gap: 12px;
+}
+
+/* change auto fill color */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+@font-face {
+  font-family: "Chiron GoRound TC";
+  src: url("./fonts/Chiron_GoRound_TC/ChironGoRoundTC-VariableFont_wght.ttf");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rounded Mplus 1c";
+  src: url("./fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rounded Mplus 1c";
+  src: url("./fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rounded Mplus 1c";
+  src: url("./fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rounded Mplus 1c";
+  src: url("./fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rounded Mplus 1c";
+  src: url("./fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rounded Mplus 1c";
+  src: url("./fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Rounded Mplus 1c";
+  src: url("./fonts/M_PLUS_Rounded_1c/MPLUSRounded1c-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
