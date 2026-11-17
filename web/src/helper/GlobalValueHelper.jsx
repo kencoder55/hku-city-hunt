@@ -35,13 +35,13 @@ export const missionTypeStyles = type => {
     },
     ar: {
       color: "#D6C682",
-      leftIcon: "/assets/icons/mission-banner/13.svg",
-      rightIcon: "/assets/icons/mission-banner/14.svg",
+      leftIcon: "/assets/icons/mission-banner/mission_icons_2.png",
+      rightIcon: "/assets/icons/mission-banner/mission_icons_9.png",
     },
     walking: {
       color: "#93CE6D",
-      leftIcon: "/assets/icons/mission-banner/15.svg",
-      rightIcon: "/assets/icons/mission-banner/16.svg",
+      leftIcon: "/assets/icons/mission-banner/mission_icons_3.png",
+      rightIcon: "/assets/icons/mission-banner/mission_icons_1.png",
     },
     painting: {
       color: "#F6ADCD",
@@ -55,8 +55,8 @@ export const missionTypeStyles = type => {
     },
     reflection: {
       color: "#DBAD58",
-      leftIcon: "/assets/icons/mission-banner/1.svg",
-      rightIcon: "/assets/icons/mission-banner/2.svg",
+      leftIcon: "/assets/icons/mission-banner/mission_icons_12.png",
+      rightIcon: "/assets/icons/mission-banner/mission_icons_4.png",
     },
     letter: {
       color: "#C88FBB",

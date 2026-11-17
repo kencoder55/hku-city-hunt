@@ -96,7 +96,7 @@ export default function RedeemProduct() {
       >
         <HeaderBanner
           title={t("rewards.redeem_product")}
-          leftIcon="/assets/icons/dr-dayday.png"
+          leftIcon="/assets/icons/doctor.png"
           rightIcon="/assets/icons/trophy.svg"
           backgroundColor="#a3a1ea"
           fullWidth={false}

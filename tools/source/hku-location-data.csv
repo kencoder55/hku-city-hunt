@@ -1,0 +1,135 @@
+Brand,Location Code,Name (En),Name (Zh),x,y,Address Details (En),Address Details (Zh),Link(for reference),lat,lng,max_distance,x (old),y (old),,Location (EN),Location (ZH),
+HKU,hku-loc1,Main Building,空中花園,53.62,61.73,"The University of Hong Kong, Pok Fu Lam",香港大學薄扶林校園,,,,,,Pok Fu Lam,薄扶林,,空中花園,
+HKU,hku-loc2,Sun Yat-sen Place,平台公園,53.54,62.76,"The University of Hong Kong, Pok Fu Lam",香港大學薄扶林校園,,,,,,Pok Fu Lam,薄扶林,,平台公園,
+HKU,hku-loc3,Centennial Campus,百週年校園公園,55.37,63.18,"The University of Hong Kong, Pok Fu Lam",香港大學薄扶林校園,,,,,,Pok Fu Lam,薄扶林,,百週年校園公園,
+HKU,hku-loc4,University Street,學習中心,54.07,62.43,"The University of Hong Kong, Pok Fu Lam",香港大學薄扶林校園,,,,,,Pok Fu Lam,薄扶林,,學習中心,
+HKU,hku-fpshan,Fung Ping Shan Building,馮平山樓,53.38,62.96,"90 Bonham Road, Pok Fu Lam",薄扶林般咸道90號,,,,,,Pok Fu Lam,薄扶林,,馮平山樓,
+HKU,hku-mayhall,Eliot Hall and May Hall,儀禮堂及梅堂,55.38,62.96,"The University of Hong Kong, Pok Fu Lam",香港大學薄扶林校園,,,,,,Pok Fu Lam,薄扶林,,儀禮堂及梅堂,HKU
+MTR,mtr-syp,MTR(Sai Ying Pun),港鐵站(西營盤),54.85,62.76,,,,22.28553152464014,114.1427328771383,500,54.98,63.86,,Sai Ying Pun,西營盤,Sai Ying Pun
+MTR,mtr-swan,MTR(Sheung Wan),港鐵站(上環),55.65,62.93,,,,22.286557675321934,114.15187231824623,500,56.75,64.20,,Sheung Wan,上環,Sheung Wan
+MTR,mtr-cen,MTR(Central),港鐵站(中環),56.83,64.15,,,,22.281951315604957,114.15825253418721,500,57.19,64.81,,Central,中環,Central
+MTR,mtr-adm,MTR(Admiralty),港鐵站(金鐘),57.55,64.56,,,,22.279411312531685,114.1645595501877,500,58.69,65.36,,Admiralty,金鐘,Admiralty
+MTR,mtr-wc,MTR(Wan Chai),港鐵站(灣仔),58.50,64.81,,,,22.277542840022978,114.17315469842521,500,59.51,65.70,,Wan Chai,灣仔,Wan Chai
+MTR,mtr-cwb,MTR(Causeway Bay),港鐵站(銅鑼灣),61.28,64.50,,,,22.280372832345595,114.18504134347997,500,61.76,65.12,,Causeway Bay,銅鑼灣,Causeway Bay
+MTR,mtr-thu,MTR(Tin Hau),港鐵站(天后),62.50,63.62,,,,22.282419785038233,114.1917264974919,500,62.34,64.54,,Tin Hau,天后,Tin Hau
+MTR,mtr-foh,MTR(Fortress Hill),港鐵站(炮台山),65.10,62.86,,,,22.287996110051637,114.19356390513038,500,62.71,63.97,,Fortress Hill,炮台山,Fortress Hill
+MTR,mtr-nop,MTR(North Point-ISL),港鐵站(北角-港島線),63.99,63.11,,,,22.291269959731643,114.20049493024607,500,64.81,63.26,,North Point,北角,North Point
+MTR,mtr-qub,MTR(Quarry Bay),港鐵站(鰂魚涌),66.21,63.40,,,,22.2878871867651,114.20974916640195,500,67.08,63.87,,Quarry Bay,鰂魚涌,Quarry Bay
+MTR,mtr-tk,MTR(Tai Koo),港鐵站(太古),67.37,64.24,,,,22.284648526320005,114.21636095630055,500,67.72,64.41,,Tai Koo,太古,Tai Koo
+MTR,mtr-swh,MTR(Sai Wan Ho),港鐵站(西灣河),68.61,65.32,,,,22.282098935416208,114.22190042318837,500,68.60,64.99,,Sai Wan Ho,西灣河,Sai Wan Ho
+MTR,mtr-skw,MTR(Shau Kei Wan),港鐵站(筲箕灣),71.12,66.09,,,,22.279242179506415,114.22888007055228,500,70.60,66.17,,Shau Kei Wan,筲箕灣,Shau Kei Wan
+MTR,mtr-chw,MTR(Chai Wan),港鐵站(柴灣),71.74,67.18,,,,22.264624344845625,114.23714053121871,500,71.40,68.95,,Chai Wan,柴灣,Chai Wan
+MTR,mtr-tsz,MTR(Tsim Sha Tsui),港鐵站(尖沙咀),58.39,60.10,,,,22.297571027809155,114.17220662002421,500,59.17,59.78,,Tsim Sha Tsui,尖沙咀,Tsim Sha Tsui
+MTR,mtr-jor,MTR(Jordan),港鐵站(佐敦),58.52,59.66,,,,22.30478537909805,114.17166121766562,500,59.64,59.53,,Jordan,佐敦,Jordan
+MTR,mtr-ymt,MTR(Yau Ma Tei),港鐵站(油麻地),58.71,58.78,,,,22.31282825606428,114.17068028745008,500,59.31,57.85,,Yau Ma Tei,油麻地,Yau Ma Tei
+MTR,mtr-mk,MTR(Mong Kok-KTL),港鐵站(旺角-觀塘線),58.71,58.01,,,,22.322049381582996,114.172600770081,500,58.38,56.63,,Mong Kok,旺角,Mong Kok
+MTR,mtr-pre,MTR(Prince Edward-TWL),港鐵站(太子-荃灣線),58.14,56.38,,,,22.325077744857,114.16838412078624,500,58.36,54.90,,Prince Edward,太子,Prince Edward
+MTR,mtr-ssp,MTR(Sham Shui Po),港鐵站(深水埗),56.83,56.10,,,,22.33077220537845,114.16226858154674,500,57.02,53.70,,Sham Shui Po,深水埗,Sham Shui Po
+MTR,mtr-csw,MTR(Cheung Sha Wan),港鐵站(長沙灣),54.70,54.58,,,,22.335609132780665,114.15599588756271,500,55.16,53.36,,Cheung Sha Wan,長沙灣,Cheung Sha Wan
+MTR,mtr-lck,MTR(Lai Chi Kok),港鐵站(荔枝角),53.51,53.96,,,,22.337259139161915,114.14803060389478,500,53.48,52.60,,Lai Chi Kok,荔枝角,Lai Chi Kok
+MTR,mtr-mfo,MTR(Mei Foo-TWL),港鐵站(美孚-荃灣線),52.42,53.74,,,,22.33757983812467,114.13798614736626,500,51.42,52.57,,Mei Foo,美孚,Mei Foo
+MTR,mtr-lkg,MTR(Lai King),港鐵站(荔景),49.71,50.94,,,,22.348414689479064,114.12616155445902,500,50.22,50.44,,Lai King,荔景,Lai King
+MTR,mtr-kff,MTR(Kwai Fong),港鐵站(葵芳),49.61,49.40,,,,22.356829101284756,114.12781358240389,500,49.34,48.45,,Kwai Fong,葵芳,Kwai Fong
+MTR,mtr-khg,MTR(Kwai Hing),港鐵站(葵興),50.29,49.00,,,,22.363056562402413,114.13121142602186,500,50.00,48.08,,Kwai Hing,葵興,Kwai Hing
+MTR,mtr-twh,MTR(Tai Wo Hau),港鐵站(大窩口),50.31,48.00,,,,22.370787779913396,114.12505947054642,500,51.38,48.25,,Tai Wo Hau,大窩口,Tai Wo Hau
+MTR,mtr-tw,MTR(Tsuen Wan),港鐵站(荃灣),49.08,47.30,,,,22.37354019,114.11729148357115,500,48.29,48.42,,Tsuen Wan,荃灣,Tsuen Wan
+MTR,mtr-whp,MTR(Whampoa),港鐵站(黃埔),61.00,58.23,,,,22.30502772091467,114.18955019857363,500,61.93,59.58,,Whampoa,黃埔,Whampoa
+MTR,mtr-hmt,MTR(Ho Man Tin),港鐵站(何文田),61.04,57.71,,,,22.309358251764685,114.18273009943567,500,60.98,58.20,,Ho Man Tin,何文田,Ho Man Tin
+MTR,mtr-skm,MTR(Shek Kip Mei),港鐵站(石硤尾),59.46,51.11,,,,22.33211654344188,114.16880229492105,500,58.33,53.14,,Shek Kip Mei,石硤尾,Shek Kip Mei
+MTR,mtr-ktt,MTR(Kowloon Tong),港鐵站(九龍塘),60.76,52.78,,,,22.33715783531838,114.1760937990306,500,60.21,52.89,,Kowloon Tong,九龍塘,Kowloon Tong
+MTR,mtr-lfu,MTR(Lok Fu),港鐵站(樂富),61.62,51.19,,,,22.338024821287,114.18702297593771,500,61.76,54.09,,Lok Fu,樂富,Lok Fu
+MTR,mtr-wts,MTR(Wong Tai Sin),港鐵站(黃大仙),62.44,51.15,,,,22.341656098005046,114.19385402949037,500,62.79,52.97,,Wong Tai Sin,黃大仙,Wong Tai Sin
+MTR,mtr-dhl,MTR(Diamond Hill),港鐵站(鑽石山),63.36,51.50,,,,22.340014077194,114.20170069828723,500,64.28,51.34,,Diamond Hill,鑽石山,Diamond Hill
+MTR,mtr-chg,MTR(Choi Hung),港鐵站(彩虹),64.51,53.22,,,,22.334889679495245,114.20898970419458,500,64.45,52.63,,Choi Hung,彩虹,Choi Hung
+MTR,mtr-klb,MTR(Kowloon Bay),港鐵站(九龍灣),64.31,54.83,,,,22.32323874838126,114.21395434816758,500,65.65,55.37,,Kowloon Bay,九龍灣,Kowloon Bay
+MTR,mtr-ntk,MTR(Ngau Tau Kok),港鐵站(牛頭角),65.70,56.52,,,,22.315132565789494,114.21962842055662,500,67.46,57.26,,Ngau Tau Kok,牛頭角,Ngau Tau Kok
+MTR,mtr-kwt,MTR(Kwun Tong),港鐵站(觀塘),67.54,58.49,,,,22.312211153955793,114.2263512378887,500,69.60,56.66,,Kwun Tong,觀塘,Kwun Tong
+MTR,mtr-lam,MTR(Lam Tin),港鐵站(藍田),71.11,57.57,,,,22.306854374802622,114.23273386003243,500,73.12,57.52,,Lam Tin,藍田,Lam Tin
+MTR,mtr-ytg,MTR(Yau Tong-TKL),港鐵站(油塘-將軍澳線),71.63,59.01,,,,22.298108476023938,114.23697015135384,500,71.49,61.29,,Yau Tong,油塘,Yau Tong
+MTR,mtr-tkl,MTR(Tiu Keng Leng),港鐵站(調景嶺),73.76,60.36,,,,22.304481133388695,114.25286689561074,500,72.86,59.32,,Tiu Keng Leng,調景嶺,Tiu Keng Leng
+MTR,mtr-tko,MTR(Tseung Kwan O),港鐵站(將軍澳),73.86,58.11,,,,22.307454285520247,114.26001861933692,500,73.98,58.63,,Tseung Kwan O,將軍澳,Tseung Kwan O
+MTR,mtr-ocp,MTR(Ocean Park),港鐵站(海洋公園),60.04,71.80,,,,22.248695108405094,114.17444338927963,500,61.92,72.27,,Ocean Park,海洋公園,Ocean Park
+MTR,mtr-wch,MTR(Wong Chuk Hang),港鐵站(黃竹坑),58.00,71.45,,,,22.24797871612583,114.16802451076714,500,60.30,72.09,,Wong Chuk Hang,黃竹坑,Wong Chuk Hang
+MTR,mtr-let,MTR(Lei Tung),港鐵站(利東),55.96,74.45,,,,22.241938833944843,114.15610104437118,500,55.91,74.73,,Lei Tung,利東,Lei Tung
+MTR,mtr-shi,MTR(South Horizons),港鐵站(海怡半島),50.15,74.46,,,,22.242858376718846,114.14874483440609,500,51.25,74.55,,South Horizons,海怡半島,South Horizons
+MTR,mtr-hhg,MTR(Hung Hom),港鐵站(紅磡),60.56,59.08,,,,22.30288902063838,114.18210071154026,500,61.19,59.80,,Hung Hom,紅磡,Hung Hom
+MTR,mtr-mke,MTR(Mong Kok East),港鐵站(旺角東),58.67,57.22,,,,22.322049381582996,114.172600770081,500,58.38,56.63,,Mong Kok East,旺角東,Mong Kok East
+MTR,mtr-twa,MTR(Tai Wai),港鐵站(大圍),57.17,41.36,,,,22.372705875485874,114.17861748695312,500,57.50,45.67,,Tai Wai,大圍,Tai Wai
+MTR,mtr-sti,MTR(Sha Tin),港鐵站(沙田),58.99,40.48,,,,22.381823554714412,114.18698843497162,500,59.34,42.91,,Sha Tin,沙田,Sha Tin
+MTR,mtr-fot,MTR(Fo Tan),港鐵站(火炭),60.20,40.15,,,,22.3950801852613,114.19813766282377,500,61.06,41.87,,Fo Tan,火炭,Fo Tan
+MTR,mtr-uni,MTR(University),港鐵站(大學),61.12,38.26,,,,22.413142148208504,114.2099455525143,500,63.15,39.61,,University,大學,University
+MTR,mtr-tpm,MTR(Tai Po Market),港鐵站(大埔墟),60.67,32.15,,,,22.444545527654668,114.17048239743535,500,59.74,35.35,,Tai Po Market,大埔墟,Tai Po Market
+MTR,mtr-two,MTR(Tai Wo),港鐵站(太和),62.04,27.66,,,,22.450998918610367,114.16122125409458,500,59.23,34.28,,Tai Wo,太和,Tai Wo
+MTR,mtr-fan,MTR(Fanling),港鐵站(粉嶺),60.65,25.57,,,,22.492071519500143,114.13869196698117,500,60.83,25.59,,Fanling,粉嶺,Fanling
+MTR,mtr-shs,MTR(Sheung Shui),港鐵站(上水),57.68,24.84,,,,22.50125845585908,114.12795184011195,500,59.38,24.21,,Sheung Shui,上水,Sheung Shui
+MTR,mtr-lwu,MTR(Lo Wu),港鐵站(羅湖),54.91,19.35,,,,22.52817157745376,114.11337676007476,500,56.27,19.44,,Lo Wu,羅湖,Lo Wu
+MTR,mtr-lmc,MTR(Lok Ma Chau),港鐵站(落馬洲),41.93,25.48,,,,22.514828831422598,114.06564561508425,500,49.22,19.44,,Lok Ma Chau,落馬洲,Lok Ma Chau
+MTR,mtr-exc,MTR(Exhibition Centre),港鐵站(會展),59.80,64.54,,,,22.282140151501554,114.17550176784363,500,60.17,64.73,,Exhibition Centre,會展,Exhibition Centre
+MTR,mtr-ckt,MTR(Che Kung Temple),港鐵站(車公廟),61.71,45.14,,,,22.37475806588989,114.18595306462889,500,58.71,45.14,,Che Kung Temple,車公廟,Che Kung Temple
+MTR,mtr-stw,MTR(Sha Tin Wai),港鐵站(沙田圍),62.47,44.44,,,,22.377023822376753,114.19497835288844,500,61.07,44.05,,Sha Tin Wai,沙田圍,Sha Tin Wai
+MTR,mtr-cio,MTR(City One),港鐵站(第一城),63.37,44.04,,,,22.38290174095893,114.20369763126197,500,62.58,42.96,,City One,第一城,City One
+MTR,mtr-shm,MTR(Shek Mun),港鐵站(石門),64.62,43.58,,,,22.38769325100283,114.20834998905384,500,63.67,41.93,,Shek Mun,石門,Shek Mun
+MTR,mtr-tsh,MTR(Tai Shui Hang),港鐵站(大水坑),66.33,42.90,,,,22.40842362926005,114.22271706325687,500,65.98,41.40,,Tai Shui Hang,大水坑,Tai Shui Hang
+MTR,mtr-hon,MTR(Heng On),港鐵站(恆安),67.85,42.00,,,,22.417319708417363,114.2257000625166,500,68.16,40.75,,Heng On,恆安,Heng On
+MTR,mtr-mos,MTR(Ma On Shan),港鐵站(馬鞍山),69.01,41.19,,,,22.42481873990593,114.2316501368071,500,70.34,39.82,,Ma On Shan,馬鞍山,Ma On Shan
+MTR,mtr-wks,MTR(Wu Kai Sha),港鐵站(烏溪沙),70.63,40.93,,,,22.429139374489868,114.24384137143883,500,71.77,39.93,,Wu Kai Sha,烏溪沙,Wu Kai Sha
+MTR,mtr-ets,MTR(East Tsim Sha Tsui),港鐵站(尖東),59.72,60.46,,,,22.294813979559237,114.17343261836396,500,59.28,61.70,,East Tsim Sha Tsui,尖東,East Tsim Sha Tsui
+MTR,mtr-aus,MTR(Austin),港鐵站(柯士甸),56.30,58.99,,,,22.305291330845883,114.16610329031731,500,57.38,59.07,,Austin,柯士甸,Austin
+MTR,mtr-nch,MTR(Nam Cheong),港鐵站(南昌),55.40,55.18,,,,22.3267755986408,114.15368016018154,500,54.58,54.17,,Nam Cheong,南昌,Nam Cheong
+MTR,mtr-mfw,MTR(Mei Foo),港鐵站(美孚),52.64,53.85,,,,22.33757983812467,114.13798614736626,500,51.07,52.94,,Mei Foo,美孚,Mei Foo
+MTR,mtr-tww,MTR(Tsuen Wan West),港鐵站(荃灣西),47.76,48.38,,,,22.368801205559336,114.10923257399443,500,47.31,47.99,,Tsuen Wan West,荃灣西,Tsuen Wan West
+MTR,mtr-ksr,MTR(Kam Sheung Road),港鐵站(錦上路),44.91,36.06,,,,22.434766510854786,114.0635279442419,500,45.00,36.08,,Kam Sheung Road,錦上路,Kam Sheung Road
+MTR,mtr-lpi,MTR(Long Ping),港鐵站(朗屏),38.56,35.27,,,,22.44767718108014,114.0254888841721,500,37.41,36.36,,Long Ping,朗屏,Long Ping
+MTR,mtr-tsw,MTR(Tin Shui Wai),港鐵站(天水圍),32.74,38.52,,,,22.448220545896096,114.00474060410535,500,37.13,36.36,,Tin Shui Wai,天水圍,Tin Shui Wai
+MTR,mtr-shg,MTR(Siu Hong),港鐵站(兆康),26.74,40.15,,,,22.411752477999226,113.97899651886509,500,26.33,39.20,,Siu Hong,兆康,Siu Hong
+MTR,mtr-tum,MTR(Tuen Mun),港鐵站(屯門),22.30,44.52,,,,22.394873957366563,113.97313331199261,500,23.13,46.43,,Tuen Mun,屯門,Tuen Mun
+MTR,mtr-hk,MTR(Hin Keng),港鐵站(顯徑),57.25,46.20,,,,22.36383307314707,114.17079159525757,500,56.78,46.27,,Hin Keng,顯徑,Hin Keng
+MTR,mtr-kit,MTR(Kai Tak),港鐵站(啟德),62.60,55.04,,,,22.330569288069338,114.19955007334084,500,61.82,52.93,,Kai Tak,啟德,Kai Tak
+MTR,mtr-tkw,MTR(To Kwa Wan),港鐵站(土瓜灣),60.65,56.47,,,,22.317308896887468,114.18760074739181,500,61.52,57.72,,To Kwa Wan,土瓜灣,To Kwa Wan
+MTR,mtr-swt,MTR(Sung Wong Toi),港鐵站(宋皇臺),60.88,54.93,,,,22.325909359242676,114.19130067362552,500,62.66,55.21,,Sung Wong Toi,宋皇臺,Sung Wong Toi
+MTR,mtr-hkg,MTR(Hong Kong),港鐵站(香港),56.20,63.59,,,,22.28468012787878,114.15817909595697,500,57.34,64.48,,Hong Kong,香港,Hong Kong
+MTR,mtr-kln,MTR(Kowloon),港鐵站(九龍),56.34,57.95,,,,22.304302542313213,114.16147520120319,500,56.88,59.09,,Kowloon,九龍,Kowloon
+MTR,mtr-oly,MTR(Olympic),港鐵站(奧運),56.44,56.90,,,,22.317841591033748,114.16013574004393,500,55.82,55.36,,Olympic,奧運,Olympic
+MTR,mtr-tsy,MTR(Tsing Yi),港鐵站(青衣),47.00,51.26,,,,22.35849631058156,114.10767263488364,500,46.45,51.26,,Tsing Yi,青衣,Tsing Yi
+MTR,mtr-tch,MTR(Tung Chung),港鐵站(東涌),24.13,59.41,,,,22.28925399470771,113.94143667825882,500,23.93,61.02,,Tung Chung,東涌,Tung Chung
+MTR,mtr-air,MTR(Airport),港鐵站(機場),17.23,60.65,,,,22.31608399290119,113.93576592922736,500,20.84,57.20,,Airport,機場,Airport
+MTR,,,,,,,,,,,500,,,,,,
+MTR,,,,,,,,,,,500,,,,,,
+Eslite,eslite-cwb,Eslite (Causeway Bay),誠品(銅鑼灣),61.92,65.50," 
+8/F-10/F Hysan Place, 500 Hennessy Road, Causeway Bay, Hong Kong",香港銅鑼灣軒尼詩道500號希慎廣場8/F-10/F,https://meet.eslite.com/hk/tc/store,22.27970223724613,114.18384567001003,500,61.78,65.47,,Causeway Bay,銅鑼灣,
+Eslite,eslite-tsw,Eslite (Tsim Sha Tsui),誠品(尖沙咀),57.20,60.46,"2/F-3/F Star House, 3 Salisbury Road, Tsim Sha Tsui, Hong Kong",香港尖沙咀梳士巴利道3號星光行2/F-3/F,,22.29451250649383,114.16882313698387,500,58.34,61.56,,Tsim Sha Tsui,尖沙咀,
+Eslite,eslite-tko,Eslite (Tai Koo),誠品(太古),67.56,64.85,"Shop 074,G/F & Shop 144, 1/F Cityplaza, 18 Tai Koo Shing Road, Hong Kong",香港太古城道18號太古城中心G/F 74鋪及1/F 144鋪,,22.28562360835834,114.21799285775647,500,67.61,64.46,,Tai Koo,太古,
+Eslite,eslite-tww,Eslite (Tsuen Wan),誠品(荃灣),48.05,47.49,"Shop 1010-1013, Level 1, D·PARK, 398 Castle Peak Road, Tsuen Wan, Hong Kong",香港荃灣青山公路荃灣段398號D•PARK愉景新城第一層1010-1013舖,,22.376338108660207,114.11209966474236,500,47.76,47.37,,Tsuen Wan,荃灣,
+Eslite,eslite-oly,Eslite (Olympic),誠品(奧運),57.16,57.91,"UG55-58, 80-88, UG/F, Olympian City 3, 1 Hoi Wang Road, Kowloon, Hong Kong","香港九龍大角咀海泓道1號奧海城三期地下高層UG55-58, 80-88號舖",,22.31748113740108,114.16480748532314,500,56.76,55.87,,Olympic,奧運,
+Eslite,eslite-tum,Eslite (Tuen Mun),誠品(屯門),20.20,43.72,"Shop M18, MTR Level, V city, 83 Tuen Mun Heung Sze Wui Road, Tuen Mun, Hong Kong",香港屯門新墟屯門鄉事會路83號 V city MTR層M18號舖,,22.39539289844076,113.97390719548207,500,22.67,47.10,,Tuen Mun,屯門,
+Eslite,eslite-ktt,Eslite (Kowloon Tong),誠品(九龍塘),59.92,53.07,"Shop No. LG2-02B, Festival Walk, 80 Tat Chee Avenue, Kowloon Tong, Hong Kong",香港九龍塘達之路80號又一城LG2-02B號鋪,,22.3367643332952,114.17519760231535,500,56.69,51.21,,Kowloon Tong,九龍塘,
+Eslite,eslite-kit,Eslite (Kai Tak),誠品(啟德),62.76,54.12,"638 Prince Edward Road East, San Po Kong, Kowloon, Hong Kong (Mikiki Shop No. 115-115A)",香港九龍新蒲崗太子道東638號 Mikiki 115-115A 號舖,,22.333268090294567,114.19681313371507,500,61.83,52.53,,Kai Tak,啟德,
+Eslite,eslite-twa,Eslite (Tai Wai),誠品(大圍),55.73,43.16,"Shop No. 508-509, 5/F, THE WAI, 18 Che Kung Temple Road, Tai Wai, Hong Kong",香港沙田大圍車公廟路18號THE WAI 5樓508-509號舖,,22.372491588715633,114.1789008702305,500,57.79,45.32,,Tai Wai,大圍,
+Eslite,eslite-hkg,Eslite (Hong Kong),誠品(香港),56.66,63.54,"Shop No. HOK 49, Level 3, Hong Kong MTR Hong Kong Station (paid concourse), Hong Kong",香港港鐵香港站L3層HOK49號舖（閘區內）,,22.284669004788253,114.15824595238938,500,57.25,64.33,,Hong Kong,香港,
+Eslite,eslite-ets,Eslite (East Tsim Sha Tsui),誠品(尖東),58.78,61.27,"Shop No. ETS 21, East Tsim Sha Tsui MTR Station, Yau Tsim Mong District, Kowloon, Hong Kong",香港九龍油尖旺區尖東站ETS21號舖,,22.295238715231104,114.17459390176379,500,59.71,61.19,,East Tsim Sha Tsui,尖東,
+Cafe 330,cafe-sti,cafe330 (Prince of Wales Hospital),cafe330 (威爾斯親王醫院),63.19,45.00,"Level 1, Main Clinical Block & Trauma Centre, Prince of Wales Hospital, 30-32 Ngan Shing Street, Shatin",沙田銀城街30-32號威爾斯親王醫院住院主樓暨創傷中心1樓,,22.380719639871778,114.20231743376604,500,63.28,42.42,,Prince of Wales Hospital,威爾斯親王醫院,
+Cafe 330,cafe-csw,cafe330 (Caritas Medical Centre),cafe330 (明愛醫院),57.61,51.47,"4/F Wai Shun Block, Caritas Medical Centre, 111 Wing Hong Street, Sham Shui Po, Kowloon",長沙灣永康街111號明愛醫院懷信樓4樓,,22.34116525956304,114.15286844110452,500,53.18,50.40,,Caritas Medical Centre,明愛醫院,
+Cafe 330,cafe-mk,cafe330 (Kwong Wah Hospital),cafe330 (廣華醫院),58.07,58.24,"Portion of G/F, New Main Building, Kwong Wah Hospital, 25 Waterloo Road, Yau Ma Tei, Kowloon",旺角窩打老道25號廣華醫院新大樓地下大堂中庭,,22.31450258234127,114.17193865214698,500,59.12,56.01,,Kwong Wah Hospital,廣華醫院,
+Cafe 330,cafe-hku,#N/A,cafe330 (香港大學),54.12,63.95,"Room 203, 2/F., Chong Yuet Ming Amenities Centre, the University of Hong Kong, Pokfulam, HK",薄扶林香港大學莊月明文娛中心2樓203室,,22.282660021322638,114.13905024304881,500,54.62,63.82,,#N/A,香港大學,
+so330,cafe-wch,so330,so330,59.74,66.41,"Shop A-C, G/F, Tai Yuen Court, 38 Tai Yuen Street, Wan Chai, HK",灣仔太原街38號太源閣地下A-C舖,,22.275201436968388,114.1733831091206,500,60.22,66.19,,Wan Chai,灣仔,
+farmfresh330 -大圍,farm-sti,cafe330 (Tai Wai),cafe330 (大圍),55.58,42.24,"Shop No 20-21, Station Concourse, Tai Wai Station, MTR Ma On Shan Rail Line, Shatin, N.T.",沙田港鐵大圍站大堂20-21號,,22.372843485552412,114.17855992731417,500,57.14,45.65,,Tai Wai,大圍,
+牧羊少年,alch-air,Alchemist Cafe (Airport),牧羊少年 (大嶼山香港國際機場),17.48,59.28,"Unit No. 5T150, Level 5, Arrivals Meeters & Greeters Hall, Terminal 1, Hong Kong International Airport, Lantau Island, Hong Kong",大嶼山香港國際機場一號客運大樓第五層5T150號舖,,22.31608399290119,113.93576592922736,500,20.84,57.20,,Airport,機場,
+牧羊少年,alch-klb,Alchemist Cafe (Kowloon Bay),牧羊少年 (九龍灣),62.77,54.12,"Shop P26, Podium, Telford Plaza 1, 33 Wai Yip Street, Kowloon Bay",九龍灣偉業街33號德福廣場1期平台P26號舖,,22.322528731058334,114.21222197311029,,,,,Kowloon Bay,九龍灣,
+牧羊少年,alch-cwb,Alchemist Cafe (Causeway Bay),牧羊少年 (銅鑼灣),61.18,63.94,"Shop G17, Fashion Walk, Great George Street, Causeway Bay",銅鑼灣記利佐治街 Fashion Walk G17號舖,,22.28102697886984,114.18516255561313,,,,,Causeway Bay,銅鑼灣,
+牧羊少年,alch-lohas,Alchemist Cafe (The LOHAS),牧羊少年 (日出康城),74.53,61.29,"Shop 417, Level 4, The Lohas, No. 1 Lohas Park Road, Tseung Kwan O, Sai Kung",將軍澳康城路1號The LOHAS康城4樓417號舖,,22.294284494694104,114.27064496496385,,,,,Tseung Kwan O,將軍澳,
+牧羊少年,alch-tsw,Lemna of the alchemist,牧羊少年與他的浮萍,57.57,60.78,"G/F, Hong Kong Cultural Centre, 10 Salisbury Road, Tsim Sha Tsui",尖沙咀梳士巴利道10號香港文化中心餐廳大樓地下,,22.293793438713017,114.1712649705524,500,59.04,61.70,,Tsim Sha Tsui,尖沙咀,
+牧羊少年,alch-mk,Alchemist Cafe (Mong Kok),牧羊少年 (旺角),59.55,59.17,"Shop 103, 1/F, Grand Plaza, No. 625 & 639 Nathan Road, Mong Kok",旺角彌敦道625 及639 雅蘭商場1樓103號舖,,22.317963169201438,114.16943383420094,500,58.27,55.54,,Mong Kok,旺角,
+牧羊少年,alch-tko,Alchemist Cafe (Hong Kong Velodrome),牧羊少年 (將軍澳香港單車館),73.38,58.68,"Shop G53, Hong Kong Velodrome, 105 Po Hong Road, Tseung Kwan O",將軍澳寶康路105-107號香港單車館地下G53號,,22.313289293819757,114.26219382585461,500,76.04,59.95,,Tseung Kwan O,將軍澳,
+牧羊少年,alch-tum,Alchemist Cafe (Tuen Mun),牧羊少年 (屯門),21.10,43.71,"Shop 2151, 2/F, Tuen Mun Town Plaza, 1 Tuen Shun Street, Tuen Mun",屯門屯順街1號屯門市廣場1期2樓2151號舖,,22.39280784306846,113.97806042108506,500,22.44,45.45,,Tuen Mun,屯門,
+牧羊少年,alch-tst,Alchemist Cafe (Tsim Sha Tsui),牧羊少年 (尖沙咀),58.34,61.31,"Shop 27, Basement 2, K11 Art Mall, 18 Hanoi Road, Tsim Sha Tsui",尖沙咀河內道18號K11購物藝術館B2樓27號舖(尖沙咀港鐵站D3出口),,22.297275825663487,114.17333638437323,500,59.55,60.34,,Tsim Sha Tsui,尖沙咀,
+牧羊少年,alch-kff,Alchemist Cafe (Kwai Fong),牧羊少年 (葵芳),49.70,48.30,"Shop 2, G/F, Kwai Tsing Theatre, 12 Hing Ning Road, Kwai Fong",葵芳興寧路12號葵青劇院地下2號舖,,22.356380737441864,114.12621959021358,500,48.71,48.31,,Kwai Fong,葵芳,
+牧羊少年,alch-sti,Alchemist Cafe (Sha Tin),牧羊少年 (沙田),58.56,42.16,"Shop G6, Hong Kong Heritage Museum, 1 Man Lam Road, Sha Tin",沙田文林路1號香港文化博物館G6號,,22.37687820754333,114.18537347888868,500,59.48,43.34,,Sha Tin,沙田,
+牧羊少年,alch-ssp,Alchemist Cafe (Sham Shui Po),牧羊少年 (深水埗),57.66,55.51,"Shop 1, G/F, Ka On Building, 27-29 Poplar Street, Prince Edward, Kowloon",深水埗白楊街27-29號嘉安大廈地下1號舖,,22.327851533298297,114.16764113541325,500,58.31,57.06,,Sham Shui Po,深水埗,
+新生農場,nlife-tum,New Life Farm,新生農場 (屯門),25.07,41.78,"33 San Fuk Road, Tuen Mun, New Territories",屯門新福路33號,,22.409758911078722,113.97107130525397,500,24.56,41.84,,Tuen Mun,屯門,
+MTR,mtrmall-tko,PopCorn,PopCorn,74.03,57.29,"9 Tong Yin Street, Tseung Kwan O",將軍澳唐賢街9號,,22.308051696327745,114.25928132307621,500,,,,,,
+MTR,mtrmall-kob ,Telford Plaza,德福廣場,63.47,53.82,"33 Wai Yip Street, Kowloon Bay",九龍灣偉業街33號,,22.323406823563268,114.21355662110963,500,,,,,,
+MTR,mtrmall-tyi,Maritime Square,青衣城,47.01,52.19,"31-33 Tsing King Road, Tsing Yi",青衣青敬路31-33號,,22.358440896128123,114.10814654498527,500,,,,,,
+MTR,mtrmall-stm ,STM Shopping Center,新屯門商場,23.36,47.35,"55-65 Lung Mun Road, Tuen Mun",屯門龍門路55-65號,,22.381247838357908,113.96435525312341,500,,,,,,
+MTR,mtrmall-twa,The wai,圍方,55.71,43.16,"18 Che Kung Miu Road, Tai Wai",沙田大圍車公廟路18號,,22.372556515867,114.17975349545246,500,,,,,,
+譚仔,tamjai-all,All TamJai Shop,所有譚仔分店,,,,,,,,,,,,,,
+三哥,samgor-all,All Samgor Shop,所有三哥分店,,,,,,,,,,,,,,

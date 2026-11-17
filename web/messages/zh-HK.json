@@ -126,7 +126,7 @@
     "go_to_survey": "前往問卷"
   },
   "mission": {
-    "mission_tips": "靜觀小​提示​",
+    "mission_tips": "完成獎勵​",
     "save_photo_instruction": "長按圖片以儲存到相簿",
     "navigate": "查看路線",
     "select_location": "選擇地點：",
@@ -152,7 +152,7 @@
     "record_detail": {
       "title": "任務完成",
       "earned_stamp": "獲得1個任務印花",
-      "already_earned": "此任務已經獲得過印花",
+      "already_earned": " ",
       "thank_you": "-謝謝參與-",
       "view_progress": "查看任務進度",
       "back_to_home": "返回主頁"

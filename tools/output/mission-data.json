@@ -1,643 +1,165 @@
 [
   {
     "id": 1,
-    "slug": "flowing-colours",
+    "slug": "幼苗覺醒",
     "type": "photo",
     "code": "V1",
-    "location_codes": "mtr-knt,mtr-kwt,mtr-oly,mtr-lkg,mtr-chg",
-    "name_en": "Flowing Colours",
-    "name_zh": "流動​中​的​色塊​",
-    "description_en": "Snap a photo of a nearby color that attracts you the most. Upload the photo to complete the mission.",
-    "description_zh": "影低附近最吸引您的一種顏色，上載相片即可完成任務。",
-    "wellness_message_zh": "人在快速移動時，大腦會自動過濾大量視覺資訊，以維持效率。透過有意識地留意顏色，我們能短暫打斷自動化反應，重新喚醒對當下環境的感知，這種視覺覺察有助提升專注力與情緒穩定感。",
-    "wellness_message_en": "When moving quickly, the brain filters visual information to stay efficient. By consciously noticing colour, we reconnect with the present and improve focus and emotional stability.",
-    "address_zh": "港鐵站(堅尼地城)、港鐵站(觀塘)、港鐵站(奧運)、港鐵站(荔景)、港鐵站(彩虹)",
-    "address_en": "MTR(Kennedy Town), MTR(Kwun Tong), MTR(Olympic), MTR(Lai King), MTR(Choi Hung)",
-    "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
-    "end_time": "2026-03-21 23:59:59",
-    "category": "mtr",
+    "location_codes": "hku-loc1",
+    "name_en": "幼苗覺醒",
+    "name_zh": "幼苗覺醒",
+    "description_en": "老師送給玩家一顆神秘 D N A 種子，但它需要吸收大自然的能量才能發芽。\n到公園或校園戶外區域探索，使用 A R 掃描樹木 / 花朵",
+    "description_zh": "老師送給玩家一顆神秘 D N A 種子，但它需要吸收大自然的能量才能發芽。\n到公園或校園戶外區域探索，使用 A R 掃描樹木 / 花朵",
+    "wellness_message_zh": "D N A 種子發芽 , 解鎖「大自然冒險家」徽章",
+    "wellness_message_en": "D N A 種子發芽 , 解鎖「大自然冒險家」徽章",
+    "address_zh": "空中花園",
+    "address_en": "Main Building",
+    "cover_image": "/assets/images/mission-cover/hku-2.svg",
+    "start_time": "2026-03-01 00:00:00",
+    "end_time": "2026-11-21 23:59:59",
+    "category": "hku2",
     "video_url": "",
     "location": [
       {
-        "brand": "MTR",
-        "code": "knt",
-        "name_zh": "港鐵站(堅尼地城)",
-        "name_en": "MTR(Kennedy Town)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.28124591004056,
-        "lng": 114.12888386370224,
-        "x": 52.57,
-        "y": 63.96
-      },
-      {
-        "brand": "MTR",
-        "code": "kwt",
-        "name_zh": "港鐵站(觀塘)",
-        "name_en": "MTR(Kwun Tong)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.312211153955793,
-        "lng": 114.2263512378887,
-        "x": 67.54,
-        "y": 58.49
-      },
-      {
-        "brand": "MTR",
-        "code": "oly",
-        "name_zh": "港鐵站(奧運)",
-        "name_en": "MTR(Olympic)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.317841591033748,
-        "lng": 114.16013574004393,
-        "x": 56.44,
-        "y": 56.9
-      },
-      {
-        "brand": "MTR",
-        "code": "lkg",
-        "name_zh": "港鐵站(荔景)",
-        "name_en": "MTR(Lai King)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.348414689479064,
-        "lng": 114.12616155445902,
-        "x": 49.71,
-        "y": 50.94
-      },
-      {
-        "brand": "MTR",
-        "code": "chg",
-        "name_zh": "港鐵站(彩虹)",
-        "name_en": "MTR(Choi Hung)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.334889679495245,
-        "lng": 114.20898970419458,
-        "x": 64.51,
-        "y": 53.22
+        "brand": "HKU",
+        "code": "loc1",
+        "name_zh": "空中花園",
+        "name_en": "Main Building",
+        "address_zh": "香港大學薄扶林校園",
+        "address_en": "The University of Hong Kong, Pok Fu Lam",
+        "max_distance": 100,
+        "lat": 0,
+        "lng": 0,
+        "x": 53.62,
+        "y": 61.73
       }
     ],
     "parameter": {
-      "message_zh": "您已重新留意眼前的顏色。\n這份覺察，讓忙碌的節奏出現了一點空隙。\n",
-      "message_en": "You reopened your visual awareness and created a small pause in the rush.",
-      "image_url": "/assets/images/frames/1.png",
-      "skip_gps": 1
+      "message_zh": "D N A 種子發芽 , 解鎖「大自然冒險家」徽章",
+      "message_en": "D N A 種子發芽 , 解鎖「大自然冒險家」徽章",
+      "image_url": "/assets/images/frames/1.png"
     }
   },
   {
     "id": 2,
     "slug": "light-and-shadow-moment",
-    "type": "quiz",
+    "type": "walking",
     "code": "V2",
-    "location_codes": "mtr-adm,mtr-pre,mtr-hhg,mtr-ytg,mtr-cen",
-    "name_en": "Light & Shadow Moment",
-    "name_zh": "站內光影一刻",
-    "description_en": "Briefly observe the light, shadows, or reflections inside the station. Choose the description that best fits your impression.",
-    "description_zh": "簡單留意站內光影或反射，選擇最貼近您感受的描述。",
-    "wellness_message_zh": "日常通行空間中的光影變化經常被忽略。透過短暫觀察光與影的流動，可讓視覺從慣性狀態中抽離，為大腦帶來微休息，並有助放慢節奏，減少緊張與急促感。",
-    "wellness_message_en": "Light and shadow constantly change in transit spaces. Brief observation slows visual rhythm and offers a micro-break that reduces tension.",
-    "address_zh": "港鐵站(金鐘)、港鐵站(太子-荃灣線)、港鐵站(紅磡)、港鐵站(油塘-將軍澳線)、港鐵站(中環)",
-    "address_en": "MTR(Admiralty), MTR(Prince Edward-TWL), MTR(Hung Hom), MTR(Yau Tong-TKL), MTR(Central)",
-    "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
-    "end_time": "2026-03-21 23:59:59",
-    "category": "mtr",
+    "location_codes": "hku-loc2",
+    "name_en": "活力運動家",
+    "name_zh": "活力運動家",
+    "description_en": "小芽已經發芽，但需要玩家的活力才能繼續長高。\n完成原地步行 / 跑或跳 50 次 / 1-2 分鐘",
+    "description_zh": "小芽已經發芽，但需要玩家的活力才能繼續長高。\n完成原地步行 / 跑或跳 50 次 / 1-2 分鐘",
+    "wellness_message_zh": "運動能量轉化成「陽光能量」。\n幼苗長出新葉, 解鎖「高能量冒險家」徽章",
+    "wellness_message_en": "運動能量轉化成「陽光能量」。\n幼苗長出新葉, 解鎖「高能量冒險家」徽章",
+    "address_zh": "平台公園",
+    "address_en": "Sun Yat-sen Place",
+    "cover_image": "/assets/images/mission-cover/hku-1.svg",
+    "start_time": "2026-03-01 00:00:00",
+    "end_time": "2026-11-21 23:59:59",
+    "category": "hku1",
     "video_url": "",
     "location": [
       {
-        "brand": "MTR",
-        "code": "adm",
-        "name_zh": "港鐵站(金鐘)",
-        "name_en": "MTR(Admiralty)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.279411312531685,
-        "lng": 114.1645595501877,
-        "x": 57.55,
-        "y": 64.56
-      },
-      {
-        "brand": "MTR",
-        "code": "pre",
-        "name_zh": "港鐵站(太子-荃灣線)",
-        "name_en": "MTR(Prince Edward-TWL)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.325077744857,
-        "lng": 114.16838412078624,
-        "x": 58.14,
-        "y": 56.38
-      },
-      {
-        "brand": "MTR",
-        "code": "hhg",
-        "name_zh": "港鐵站(紅磡)",
-        "name_en": "MTR(Hung Hom)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.30288902063838,
-        "lng": 114.18210071154026,
-        "x": 60.56,
-        "y": 59.08
-      },
-      {
-        "brand": "MTR",
-        "code": "ytg",
-        "name_zh": "港鐵站(油塘-將軍澳線)",
-        "name_en": "MTR(Yau Tong-TKL)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.298108476023938,
-        "lng": 114.23697015135384,
-        "x": 71.63,
-        "y": 59.01
-      },
-      {
-        "brand": "MTR",
-        "code": "cen",
-        "name_zh": "港鐵站(中環)",
-        "name_en": "MTR(Central)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.281951315604957,
-        "lng": 114.15825253418721,
-        "x": 56.83,
-        "y": 64.15
-      }
-    ],
-    "parameter": {
-      "message_zh": "您願意為光影停一停。\n視覺慢下來，心也跟着鬆了一點。\n",
-      "message_en": "You allowed your eyes to slow down with the light.",
-      "question_zh": "此刻，站內的光影帶給您甚麼感覺？",
-      "question_en": "How does the light feel at this moment?",
-      "options": [
-        {
-          "label_zh": "明亮",
-          "label_en": "Bright",
-          "value": "a",
-          "message_zh": "您願意為光影停一停。\n視覺慢下來，心也跟着鬆了一點。\n",
-          "message_en": "You allowed your eyes to slow down with the light."
-        },
-        {
-          "label_zh": "柔和",
-          "label_en": "Soft",
-          "value": "b",
-          "message_zh": "您願意為光影停一停。\n視覺慢下來，心也跟着鬆了一點。\n",
-          "message_en": "You allowed your eyes to slow down with the light."
-        },
-        {
-          "label_zh": "冷靜",
-          "label_en": "Calm",
-          "value": "c",
-          "message_zh": "您願意為光影停一停。\n視覺慢下來，心也跟着鬆了一點。\n",
-          "message_en": "You allowed your eyes to slow down with the light."
-        },
-        {
-          "label_zh": "沉穩",
-          "label_en": "Steady",
-          "value": "d",
-          "message_zh": "您願意為光影停一停。\n視覺慢下來，心也跟着鬆了一點。\n",
-          "message_en": "You allowed your eyes to slow down with the light."
-        }
-      ],
-      "skip_gps": 1
-    }
-  },
-  {
-    "id": 3,
-    "slug": "crowd-rhythm",
-    "type": "quiz",
-    "code": "V3",
-    "location_codes": "mtr-nop,mtr-ssp,mtr-uni,mtr-tww,mtr-syp",
-    "name_en": "Crowd Rhythm",
-    "name_zh": "人流節奏",
-    "description_en": "Feel the speed and flow of people while walking.",
-    "description_zh": "在行走中感受人流節奏。",
-    "wellness_message_zh": "在擁擠的公共空間中，我們容易不自覺地跟隨人流節奏前行。透過覺察周遭步伐的快慢與流動方式，可重新建立自我節奏感，減少被環境牽動的壓力，提升心理穩定度。",
-    "wellness_message_en": "Crowd movement often shapes our pace unconsciously. Noticing rhythm helps reclaim personal tempo and ease pressure.",
-    "address_zh": "港鐵站(北角-港島線)、港鐵站(深水埗)、港鐵站(大學)、港鐵站(荃灣西)、港鐵站(西營盤)",
-    "address_en": "MTR(North Point-ISL), MTR(Sham Shui Po), MTR(University), MTR(Tsuen Wan West), MTR(Sai Ying Pun)",
-    "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
-    "end_time": "2026-03-21 23:59:59",
-    "category": "mtr",
-    "video_url": "",
-    "location": [
-      {
-        "brand": "MTR",
-        "code": "nop",
-        "name_zh": "港鐵站(北角-港島線)",
-        "name_en": "MTR(North Point-ISL)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.291269959731643,
-        "lng": 114.20049493024607,
-        "x": 63.99,
-        "y": 63.11
-      },
-      {
-        "brand": "MTR",
-        "code": "ssp",
-        "name_zh": "港鐵站(深水埗)",
-        "name_en": "MTR(Sham Shui Po)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.33077220537845,
-        "lng": 114.16226858154674,
-        "x": 56.83,
-        "y": 56.1
-      },
-      {
-        "brand": "MTR",
-        "code": "uni",
-        "name_zh": "港鐵站(大學)",
-        "name_en": "MTR(University)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.413142148208504,
-        "lng": 114.2099455525143,
-        "x": 61.12,
-        "y": 38.26
-      },
-      {
-        "brand": "MTR",
-        "code": "tww",
-        "name_zh": "港鐵站(荃灣西)",
-        "name_en": "MTR(Tsuen Wan West)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.368801205559336,
-        "lng": 114.10923257399443,
-        "x": 47.76,
-        "y": 48.38
-      },
-      {
-        "brand": "MTR",
-        "code": "syp",
-        "name_zh": "港鐵站(西營盤)",
-        "name_en": "MTR(Sai Ying Pun)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.28553152464014,
-        "lng": 114.1427328771383,
-        "x": 54.85,
+        "brand": "HKU",
+        "code": "loc2",
+        "name_zh": "平台公園",
+        "name_en": "Sun Yat-sen Place",
+        "address_zh": "香港大學薄扶林校園",
+        "address_en": "The University of Hong Kong, Pok Fu Lam",
+        "max_distance": 100,
+        "lat": 0,
+        "lng": 0,
+        "x": 53.54,
         "y": 62.76
       }
     ],
     "parameter": {
-      "message_zh": "您察覺到環境的節奏。\n您也可以選擇屬於自己的步伐。\n",
-      "message_en": "You noticed the rhythm around you—and remembered your own.",
-      "question_zh": "您此刻感受到的人流節奏是？",
-      "question_en": "How does the crowd rhythm feel right now?",
-      "options": [
-        {
-          "label_zh": "快速",
-          "label_en": "Fast",
-          "value": "a",
-          "message_zh": "您察覺到環境的節奏。\n您也可以選擇屬於自己的步伐。\n",
-          "message_en": "You noticed the rhythm around you—and remembered your own."
-        },
-        {
-          "label_zh": "平穩",
-          "label_en": "Steady",
-          "value": "b",
-          "message_zh": "您察覺到環境的節奏。\n您也可以選擇屬於自己的步伐。\n",
-          "message_en": "You noticed the rhythm around you—and remembered your own."
-        },
-        {
-          "label_zh": "混合",
-          "label_en": "Mixed",
-          "value": "c",
-          "message_zh": "您察覺到環境的節奏。\n您也可以選擇屬於自己的步伐。\n",
-          "message_en": "You noticed the rhythm around you—and remembered your own."
-        },
-        {
-          "label_zh": "難以形容",
-          "label_en": "Hard to describe",
-          "value": "d",
-          "message_zh": "您察覺到環境的節奏。\n您也可以選擇屬於自己的步伐。\n",
-          "message_en": "You noticed the rhythm around you—and remembered your own."
-        }
-      ],
-      "skip_gps": 1
+      "message_zh": "運動能量轉化成「陽光能量」。\n幼苗長出新葉, 解鎖「高能量冒險家」徽章",
+      "message_en": "運動能量轉化成「陽光能量」。\n幼苗長出新葉, 解鎖「高能量冒險家」徽章",
+      "required_distance": 30
+    }
+  },
+  {
+    "id": 3,
+    "slug": "快樂笑容收集站",
+    "type": "reflection",
+    "code": "V3",
+    "location_codes": "hku-loc3",
+    "name_en": "快樂笑容收集站",
+    "name_zh": "快樂笑容收集站",
+    "description_en": "成長 D N A 樹快要開花了，但花朵需要快樂能量。\n與家人公園散步/社區探索",
+    "description_zh": "成長 D N A 樹快要開花了，但花朵需要快樂能量。\n與家人公園散步/社區探索",
+    "wellness_message_zh": "成長 D N A 樹開稀有「幸福花」, 解鎖「快活冒險家」徽章",
+    "wellness_message_en": "成長 D N A 樹開稀有「幸福花」, 解鎖「快活冒險家」徽章",
+    "address_zh": "百週年校園公園",
+    "address_en": "Centennial Campus",
+    "cover_image": "/assets/images/mission-cover/hku-1.svg",
+    "start_time": "2026-03-01 00:00:00",
+    "end_time": "2026-11-21 23:59:59",
+    "category": "hku1",
+    "video_url": "",
+    "location": [
+      {
+        "brand": "HKU",
+        "code": "loc3",
+        "name_zh": "百週年校園公園",
+        "name_en": "Centennial Campus",
+        "address_zh": "香港大學薄扶林校園",
+        "address_en": "The University of Hong Kong, Pok Fu Lam",
+        "max_distance": 100,
+        "lat": 0,
+        "lng": 0,
+        "x": 55.37,
+        "y": 63.18
+      }
+    ],
+    "parameter": {
+      "message_zh": "成長 D N A 樹開稀有「幸福花」, 解鎖「快活冒險家」徽章",
+      "message_en": "成長 D N A 樹開稀有「幸福花」, 解鎖「快活冒險家」徽章"
     }
   },
   {
     "id": 4,
-    "slug": "unnoticed-corner",
+    "slug": "盛放之日",
     "type": "photo",
     "code": "V4",
-    "location_codes": "mtr-chw,mtr-wts,mtr-tum,mtr-tsz",
-    "name_en": "Unnoticed Corner",
-    "name_zh": "陌生的角落",
-    "description_en": "Snap a photo of a corner you usually overlook. Upload it to complete the mission.",
-    "description_zh": "影低一個從未細看過的角落，上載相片即可完成任務。",
-    "wellness_message_zh": "長期重複經過的路線，容易令感官變得遲鈍。重新留意熟悉空間中的細節，有助打破自動駕駛狀態，讓視覺重新投入當下，並為日常生活帶來輕微的新鮮感與彈性。",
-    "wellness_message_en": "Repeated routes dull perception. Noticing overlooked details brings freshness and flexibility back into daily experience.",
-    "address_zh": "港鐵站(柴灣)、港鐵站(黃大仙)、港鐵站(屯門)、港鐵站(尖沙咀)",
-    "address_en": "MTR(Chai Wan), MTR(Wong Tai Sin), MTR(Tuen Mun), MTR(Tsim Sha Tsui)",
-    "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
-    "end_time": "2026-03-21 23:59:59",
-    "category": "mtr",
+    "location_codes": "hku-loc4",
+    "name_en": "盛放之日",
+    "name_zh": "盛放之日",
+    "description_en": "過探索、運動與快樂分享，成長 D N A 樹即將結果。\n與家人拍攝快樂時刻 / 玩家透過 A R 拍攝快樂時刻",
+    "description_zh": "過探索、運動與快樂分享，成長 D N A 樹即將結果。\n與家人拍攝快樂時刻 / 玩家透過 A R 拍攝快樂時刻",
+    "wellness_message_zh": "成長 D N A 樹結果, 解鎖最終形態「幸福大樹」, 解鎖「D N A 智慧成長冒險家」徽章\n",
+    "wellness_message_en": "成長 D N A 樹結果, 解鎖最終形態「幸福大樹」, 解鎖「D N A 智慧成長冒險家」徽章\n",
+    "address_zh": "學習中心",
+    "address_en": "University Street",
+    "cover_image": "/assets/images/mission-cover/hku-2.svg",
+    "start_time": "2026-03-01 00:00:00",
+    "end_time": "2026-11-21 23:59:59",
+    "category": "hku2",
     "video_url": "",
     "location": [
       {
-        "brand": "MTR",
-        "code": "chw",
-        "name_zh": "港鐵站(柴灣)",
-        "name_en": "MTR(Chai Wan)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.264624344845625,
-        "lng": 114.23714053121871,
-        "x": 71.74,
-        "y": 67.18
-      },
-      {
-        "brand": "MTR",
-        "code": "wts",
-        "name_zh": "港鐵站(黃大仙)",
-        "name_en": "MTR(Wong Tai Sin)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.341656098005046,
-        "lng": 114.19385402949037,
-        "x": 62.44,
-        "y": 51.15
-      },
-      {
-        "brand": "MTR",
-        "code": "tum",
-        "name_zh": "港鐵站(屯門)",
-        "name_en": "MTR(Tuen Mun)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.394873957366563,
-        "lng": 113.97313331199261,
-        "x": 22.3,
-        "y": 44.52
-      },
-      {
-        "brand": "MTR",
-        "code": "tsz",
-        "name_zh": "港鐵站(尖沙咀)",
-        "name_en": "MTR(Tsim Sha Tsui)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.297571027809155,
-        "lng": 114.17220662002421,
-        "x": 58.39,
-        "y": 60.1
+        "brand": "HKU",
+        "code": "loc4",
+        "name_zh": "學習中心",
+        "name_en": "University Street",
+        "address_zh": "香港大學薄扶林校園",
+        "address_en": "The University of Hong Kong, Pok Fu Lam",
+        "max_distance": 100,
+        "lat": 0,
+        "lng": 0,
+        "x": 54.07,
+        "y": 62.43
       }
     ],
     "parameter": {
-      "message_zh": "您看見了平日忽略的細節。\n日常之中，也能藏着新的發現。\n",
-      "message_en": "Even familiar places can reveal something new.",
-      "image_url": "/assets/images/frames/1.png",
-      "skip_gps": 1
+      "message_zh": "成長 D N A 樹結果, 解鎖最終形態「幸福大樹」, 解鎖「D N A 智慧成長冒險家」徽章\n",
+      "message_en": "成長 D N A 樹結果, 解鎖最終形態「幸福大樹」, 解鎖「D N A 智慧成長冒險家」徽章\n",
+      "image_url": "/assets/images/frames/1.png"
     }
   },
   {
     "id": 5,
-    "slug": "platform-sound-map",
-    "type": "painting",
-    "code": "A1",
-    "location_codes": "mtr-hku,mtr-mfo,mtr-tsy,mtr-cwb,mtr-lwu",
-    "name_en": "Platform Sound Map",
-    "name_zh": "月台聲音地圖",
-    "description_en": "Take a moment to notice the surrounding sounds, then draw the sound waves of what you hear.",
-    "description_zh": "短暫留意周遭聲音，畫出您聽到的聲音波動。",
-    "wellness_message_zh": "車站是一個由多層聲音交織而成的環境。透過有意識地分辨不同聲音來源，可將注意力拉回當下，減少思緒分散，並提升對環境的覺察能力與專注狀態。",
-    "wellness_message_en": "Stations are layered with many sounds. Actively listening helps bring attention back to the present.",
-    "address_zh": "港鐵站(香港大學)、港鐵站(美孚-荃灣線)、港鐵站(青衣)、港鐵站(銅鑼灣)、港鐵站(羅湖)",
-    "address_en": "MTR(HKU), MTR(Mei Foo-TWL), MTR(Tsing Yi), MTR(Causeway Bay), MTR(Lo Wu)",
-    "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
-    "end_time": "2026-03-21 23:59:59",
-    "category": "mtr",
-    "video_url": "",
-    "location": [
-      {
-        "brand": "MTR",
-        "code": "hku",
-        "name_zh": "港鐵站(香港大學)",
-        "name_en": "MTR(HKU)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.28398271344664,
-        "lng": 114.13504273620399,
-        "x": 53.85,
-        "y": 63.41
-      },
-      {
-        "brand": "MTR",
-        "code": "mfo",
-        "name_zh": "港鐵站(美孚-荃灣線)",
-        "name_en": "MTR(Mei Foo-TWL)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.33757983812467,
-        "lng": 114.13798614736626,
-        "x": 52.42,
-        "y": 53.74
-      },
-      {
-        "brand": "MTR",
-        "code": "tsy",
-        "name_zh": "港鐵站(青衣)",
-        "name_en": "MTR(Tsing Yi)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.35849631058156,
-        "lng": 114.10767263488364,
-        "x": 47.0,
-        "y": 51.26
-      },
-      {
-        "brand": "MTR",
-        "code": "cwb",
-        "name_zh": "港鐵站(銅鑼灣)",
-        "name_en": "MTR(Causeway Bay)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.280372832345595,
-        "lng": 114.18504134347997,
-        "x": 61.28,
-        "y": 64.5
-      },
-      {
-        "brand": "MTR",
-        "code": "lwu",
-        "name_zh": "港鐵站(羅湖)",
-        "name_en": "MTR(Lo Wu)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.52817157745376,
-        "lng": 114.11337676007476,
-        "x": 54.91,
-        "y": 19.35
-      }
-    ],
-    "parameter": {
-      "message_zh": "您聽見了不只一種聲音。\n世界一直在運作，而您正在其中。\n",
-      "message_en": "You heard the world in motion.",
-      "skip_gps": 1
-    }
-  },
-  {
-    "id": 6,
-    "slug": "beyond-announcements",
-    "type": "quiz",
-    "code": "A2",
-    "location_codes": "mtr-wc,mtr-mke,mtr-wch,mtr-ntk,mtr-lam",
-    "name_en": "Beyond Announcements",
-    "name_zh": "廣播以外",
-    "description_en": "Listen for sounds other than the announcements, and select the one that stands out the most.",
-    "description_zh": "留意系統廣播以外的聲音，選擇出最有存在感的一項。",
-    "wellness_message_zh": "當注意力長期集中於指令與提示，感官接收會變得單一。刻意留意非系統廣播的聲音，有助擴闊感知範圍，平衡控制感與開放感，讓聽覺重新回到環境之中。",
-    "wellness_message_en": "Listening beyond instructions expands awareness and balances control with openness.",
-    "address_zh": "港鐵站(灣仔)、港鐵站(旺角東)、港鐵站(黃竹坑)、港鐵站(牛頭角)、港鐵站(藍田)",
-    "address_en": "MTR(Wan Chai), MTR(Mong Kok East), MTR(Wong Chuk Hang), MTR(Ngau Tau Kok), MTR(Lam Tin)",
-    "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
-    "end_time": "2026-03-21 23:59:59",
-    "category": "mtr",
-    "video_url": "",
-    "location": [
-      {
-        "brand": "MTR",
-        "code": "wc",
-        "name_zh": "港鐵站(灣仔)",
-        "name_en": "MTR(Wan Chai)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.277542840022978,
-        "lng": 114.17315469842521,
-        "x": 58.5,
-        "y": 64.81
-      },
-      {
-        "brand": "MTR",
-        "code": "mke",
-        "name_zh": "港鐵站(旺角東)",
-        "name_en": "MTR(Mong Kok East)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.322049381582996,
-        "lng": 114.172600770081,
-        "x": 58.67,
-        "y": 57.22
-      },
-      {
-        "brand": "MTR",
-        "code": "wch",
-        "name_zh": "港鐵站(黃竹坑)",
-        "name_en": "MTR(Wong Chuk Hang)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.24797871612583,
-        "lng": 114.16802451076714,
-        "x": 58.0,
-        "y": 71.45
-      },
-      {
-        "brand": "MTR",
-        "code": "ntk",
-        "name_zh": "港鐵站(牛頭角)",
-        "name_en": "MTR(Ngau Tau Kok)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.315132565789494,
-        "lng": 114.21962842055662,
-        "x": 65.7,
-        "y": 56.52
-      },
-      {
-        "brand": "MTR",
-        "code": "lam",
-        "name_zh": "港鐵站(藍田)",
-        "name_en": "MTR(Lam Tin)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.306854374802622,
-        "lng": 114.23273386003243,
-        "x": 71.11,
-        "y": 57.57
-      }
-    ],
-    "parameter": {
-      "message_zh": "您聽見了指令以外的存在。\n這份開放，讓感官回到當下。\n",
-      "message_en": "You noticed sounds beyond instructions.",
-      "question_zh": "您剛才留意到的是哪一種聲音？",
-      "question_en": "What kind of sound did you notice just now?",
-      "options": [
-        {
-          "label_zh": "人聲",
-          "label_en": "Voices",
-          "value": "a",
-          "message_zh": "您聽見了指令以外的存在。\n這份開放，讓感官回到當下。\n",
-          "message_en": "You noticed sounds beyond instructions."
-        },
-        {
-          "label_zh": "腳步聲",
-          "label_en": "Footsteps",
-          "value": "b",
-          "message_zh": "您聽見了指令以外的存在。\n這份開放，讓感官回到當下。\n",
-          "message_en": "You noticed sounds beyond instructions."
-        },
-        {
-          "label_zh": "環境聲",
-          "label_en": "Ambient sounds",
-          "value": "c",
-          "message_zh": "您聽見了指令以外的存在。\n這份開放，讓感官回到當下。\n",
-          "message_en": "You noticed sounds beyond instructions."
-        },
-        {
-          "label_zh": "其他聲音",
-          "label_en": "Other sounds",
-          "value": "d",
-          "message_zh": "您聽見了指令以外的存在。\n這份開放，讓感官回到當下。\n",
-          "message_en": "You noticed sounds beyond instructions."
-        }
-      ],
-      "skip_gps": 1
-    }
-  },
-  {
-    "id": 7,
     "slug": "walking-pace-awareness",
     "type": "painting",
     "code": "A3",
@@ -651,7 +173,7 @@
     "address_zh": "港鐵站(鰂魚涌)、港鐵站(會展)、港鐵站(大埔墟)、港鐵站(錦上路)、港鐵站(荃灣)",
     "address_en": "MTR(Quarry Bay), MTR(Exhibition Centre), MTR(Tai Po Market), MTR(Kam Sheung Road), MTR(Tsuen Wan)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -724,12 +246,11 @@
     ],
     "parameter": {
       "message_zh": "您留意到自己的節奏。\n覺察本身，已是一種調節。\n",
-      "message_en": "Awareness itself is regulation.",
-      "skip_gps": 1
+      "message_en": "Awareness itself is regulation."
     }
   },
   {
-    "id": 8,
+    "id": 6,
     "slug": "carriage-white-noise",
     "type": "painting",
     "code": "A4",
@@ -743,7 +264,7 @@
     "address_zh": "港鐵站(粉嶺)、港鐵站(鑽石山)、港鐵站(顯徑)、港鐵站(調景嶺)、港鐵站(沙田圍)",
     "address_en": "MTR(Fanling), MTR(Diamond Hill), MTR(Hin Keng), MTR(Tiu Keng Leng), MTR(Sha Tin Wai)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -816,12 +337,11 @@
     ],
     "parameter": {
       "message_zh": "您容許背景聲存在。\n有時，不需要安靜，也能平靜。\n",
-      "message_en": "Calm doesn’t always require silence.",
-      "skip_gps": 1
+      "message_en": "Calm doesn’t always require silence."
     }
   },
   {
-    "id": 9,
+    "id": 7,
     "slug": "handrail-temperature",
     "type": "quiz",
     "code": "T1",
@@ -835,7 +355,7 @@
     "address_zh": "港鐵站(上水)、港鐵站(荔枝角)、港鐵站(車公廟)、港鐵站(石硤尾)、港鐵站(九龍灣)",
     "address_en": "MTR(Sheung Shui), MTR(Lai Chi Kok), MTR(Che Kung Temple), MTR(Shek Kip Mei), MTR(Kowloon Bay)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -940,12 +460,11 @@
           "message_zh": "您重新感受到身體。\n當下，其實一直都在您身邊。\n",
           "message_en": "You reconnected with your body."
         }
-      ],
-      "skip_gps": 1
+      ]
     }
   },
   {
-    "id": 10,
+    "id": 8,
     "slug": "grounded-steps",
     "type": "video",
     "code": "T2",
@@ -959,7 +478,7 @@
     "address_zh": "港鐵站(油麻地)、港鐵站(海洋公園)、港鐵站(大圍)、港鐵站(將軍澳)",
     "address_en": "MTR(Yau Ma Tei), MTR(Ocean Park), MTR(Tai Wai), MTR(Tseung Kwan O)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "https://330day-s3-production.s3.ap-east-1.amazonaws.com/videos/newlife-video-breathing.mov",
@@ -1020,12 +539,11 @@
     "parameter": {
       "message_zh": "您感受到了腳踏實地。\n穩定，往往從最基本的位置開始。\n",
       "message_en": "Stability starts from the ground.",
-      "video_url": "https://330day-s3-production.s3.ap-east-1.amazonaws.com/videos/newlife-video-breathing.mov",
-      "skip_gps": 1
+      "video_url": "https://330day-s3-production.s3.ap-east-1.amazonaws.com/videos/newlife-video-breathing.mov"
     }
   },
   {
-    "id": 11,
+    "id": 9,
     "slug": "vibration-awareness",
     "type": "quiz",
     "code": "T3",
@@ -1039,7 +557,7 @@
     "address_zh": "港鐵站(太古)、港鐵站(黃埔)、港鐵站(太和)、港鐵站(朗屏)、港鐵站(啟德)",
     "address_en": "MTR(Tai Koo), MTR(Whampoa), MTR(Tai Wo), MTR(Long Ping), MTR(Kai Tak)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -1144,12 +662,11 @@
           "message_zh": "您留意到細微的變化。\n身體一直在回應世界。\n",
           "message_en": "Your body is responding to the world."
         }
-      ],
-      "skip_gps": 1
+      ]
     }
   },
   {
-    "id": 12,
+    "id": 10,
     "slug": "object-in-hand",
     "type": "painting",
     "code": "T4",
@@ -1163,7 +680,7 @@
     "address_zh": "港鐵站(大窩口)、港鐵站(尖東)、港鐵站(宋皇臺)、港鐵站(落馬洲)、港鐵站(柯士甸)",
     "address_en": "MTR(Tai Wo Hau), MTR(East Tsim Sha Tsui), MTR(Sung Wong Toi), MTR(Lok Ma Chau), MTR(Austin)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -1236,43 +753,29 @@
     ],
     "parameter": {
       "message_zh": "您握住了熟悉的觸感。\n安心，有時很簡單。\n",
-      "message_en": "Comfort can be simple.",
-      "skip_gps": 1
+      "message_en": "Comfort can be simple."
     }
   },
   {
-    "id": 13,
+    "id": 11,
     "slug": "air-change-awareness",
     "type": "painting",
     "code": "S1",
-    "location_codes": "mtr-swan,mtr-csw,mtr-tkw,mtr-cio",
+    "location_codes": "mtr-csw,mtr-tkw,mtr-cio",
     "name_en": "Air Change Awareness",
     "name_zh": "空氣變化",
     "description_en": "Notice changes in the air as you walk, and select your impression.",
     "description_zh": "行走時留意空氣感覺的變化，選擇您的感受。是侷促/暢快/平穩",
     "wellness_message_zh": "空氣的轉換往往反映空間與環境的改變。透過留意空氣感覺的差異，有助提升對場景轉移的覺察，並提醒自己正在進入新的情境與狀態。",
     "wellness_message_en": "Changes in air reflect environment shifts and support transition awareness.",
-    "address_zh": "港鐵站(上環)、港鐵站(長沙灣)、港鐵站(土瓜灣)、港鐵站(第一城)",
-    "address_en": "MTR(Sheung Wan), MTR(Cheung Sha Wan), MTR(To Kwa Wan), MTR(City One)",
+    "address_zh": "港鐵站(長沙灣)、港鐵站(土瓜灣)、港鐵站(第一城)",
+    "address_en": "MTR(Cheung Sha Wan), MTR(To Kwa Wan), MTR(City One)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
     "location": [
-      {
-        "brand": "MTR",
-        "code": "swan",
-        "name_zh": "港鐵站(上環)",
-        "name_en": "MTR(Sheung Wan)",
-        "address_zh": "",
-        "address_en": "",
-        "max_distance": 500.0,
-        "lat": 22.286557675321934,
-        "lng": 114.15187231824623,
-        "x": 55.65,
-        "y": 62.93
-      },
       {
         "brand": "MTR",
         "code": "csw",
@@ -1315,12 +818,11 @@
     ],
     "parameter": {
       "message_zh": "您察覺到空氣的轉換。\n每個空間，都在提醒您正在前行。\n",
-      "message_en": "You noticed the environment shift.",
-      "skip_gps": 1
+      "message_en": "You noticed the environment shift."
     }
   },
   {
-    "id": 14,
+    "id": 12,
     "slug": "familiar-scent",
     "type": "painting",
     "code": "S2",
@@ -1334,7 +836,7 @@
     "address_zh": "港鐵站(天后)、港鐵站(佐敦)、港鐵站(利東)、港鐵站(沙田)",
     "address_en": "MTR(Tin Hau), MTR(Jordan), MTR(Lei Tung), MTR(Sha Tin)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -1394,12 +896,11 @@
     ],
     "parameter": {
       "message_zh": "您連結了一段記憶。\n氣味，往往比文字更誠實。\n",
-      "message_en": "Scents speak honestly.",
-      "skip_gps": 1
+      "message_en": "Scents speak honestly."
     }
   },
   {
-    "id": 15,
+    "id": 13,
     "slug": "refreshing-breath",
     "type": "quiz",
     "code": "S3",
@@ -1413,7 +914,7 @@
     "address_zh": "港鐵站(西灣河)、港鐵站(何文田)、港鐵站(南昌)、港鐵站(石門)",
     "address_en": "MTR(Sai Wan Ho), MTR(Ho Man Tin), MTR(Nam Cheong), MTR(Shek Mun)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -1505,12 +1006,11 @@
           "message_zh": "您完成了一次呼吸。\n不急，已經很好。\n",
           "message_en": "No rush—you’re doing well."
         }
-      ],
-      "skip_gps": 1
+      ]
     }
   },
   {
-    "id": 16,
+    "id": 14,
     "slug": "the-scent-of-stillness",
     "type": "quiz",
     "code": "S4",
@@ -1524,7 +1024,7 @@
     "address_zh": "港鐵站(葵興)、港鐵站(九龍塘)、港鐵站(天水圍)、港鐵站(香港)、港鐵站(大水坑)",
     "address_en": "MTR(Kwai Hing), MTR(Kowloon Tong), MTR(Tin Shui Wai), MTR(Hong Kong), MTR(Tai Shui Hang)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -1629,12 +1129,11 @@
           "message_zh": "您感受到了平靜。\n沒有刺激，也是一種體驗。\n",
           "message_en": "Stillness is an experience."
         }
-      ],
-      "skip_gps": 1
+      ]
     }
   },
   {
-    "id": 17,
+    "id": 15,
     "slug": "taste-memory",
     "type": "painting",
     "code": "G1",
@@ -1648,7 +1147,7 @@
     "address_zh": "港鐵站(恆安)、港鐵站(海怡半島)、港鐵站(九龍)",
     "address_en": "MTR(Heng On), MTR(South Horizons), MTR(Kowloon)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -1695,12 +1194,11 @@
     ],
     "parameter": {
       "message_zh": "您想起了一種熟悉的味道。\n回憶，有時能安放情緒。\n",
-      "message_en": "Memories can hold emotion.",
-      "skip_gps": 1
+      "message_en": "Memories can hold emotion."
     }
   },
   {
-    "id": 18,
+    "id": 16,
     "slug": "oral-awareness",
     "type": "quiz",
     "code": "G2",
@@ -1714,7 +1212,7 @@
     "address_zh": "港鐵站(炮台山)、港鐵站(馬鞍山)、港鐵站(火炭)",
     "address_en": "MTR(Fortress Hill), MTR(Ma On Shan), MTR(Fo Tan)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -1786,12 +1284,11 @@
           "message_zh": "您留意到了身體的細微訊號。\n覺察，本身已是一種照顧。\n",
           "message_en": "Awareness is care."
         }
-      ],
-      "skip_gps": 1
+      ]
     }
   },
   {
-    "id": 19,
+    "id": 17,
     "slug": "anticipated-taste",
     "type": "quiz",
     "code": "G3",
@@ -1805,7 +1302,7 @@
     "address_zh": "港鐵站(烏溪沙)、港鐵站(東涌)、港鐵站(筲箕灣)",
     "address_en": "MTR(Wu Kai Sha), MTR(Tung Chung), MTR(Shau Kei Wan)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -1877,12 +1374,11 @@
           "message_zh": "您為未來保留了一點期待。\n前面，仍然有值得等的事。\n",
           "message_en": "There are things to look forward to."
         }
-      ],
-      "skip_gps": 1
+      ]
     }
   },
   {
-    "id": 20,
+    "id": 18,
     "slug": "taste-imagination",
     "type": "painting",
     "code": "G4",
@@ -1896,7 +1392,7 @@
     "address_zh": "港鐵站(葵芳)、港鐵站(樂富)、港鐵站(兆康)、港鐵站(美孚-荃灣線)",
     "address_en": "MTR(Kwai Fong), MTR(Lok Fu), MTR(Siu Hong), MTR(Mei Foo-TWL)",
     "cover_image": "/assets/images/mission-cover/mtr.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -1956,12 +1452,11 @@
     ],
     "parameter": {
       "message_zh": "您為自己創造了一個安心畫面。\n想像，也是一種休息。\n",
-      "message_en": "Imagination can be rest.",
-      "skip_gps": 1
+      "message_en": "Imagination can be rest."
     }
   },
   {
-    "id": 21,
+    "id": 19,
     "slug": "walking-scenery",
     "type": "walking",
     "code": "T1",
@@ -1975,7 +1470,7 @@
     "address_zh": "PopCorn、青衣城、新屯門商場、圍方",
     "address_en": "PopCorn, Maritime Square, STM Shopping Center, The wai",
     "cover_image": "/assets/icons/mtr-mall.png",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-21 23:59:59",
     "category": "mtr",
     "video_url": "",
@@ -2036,12 +1531,11 @@
     "parameter": {
       "message_zh": "您已完成這段步行。\n距離不長，但請記住身體前行的感覺。",
       "message_en": "You have completed this walk. The distance was not long, but remember the feeling of your body moving forward.",
-      "required_distance": 30,
-      "skip_gps": 1
+      "required_distance": 30
     }
   },
   {
-    "id": 22,
+    "id": 20,
     "slug": "checkpoint-arrival",
     "type": "reflection",
     "code": "V1",
@@ -2055,7 +1549,7 @@
     "address_zh": "牧羊少年 (九龍灣)、牧羊少年 (旺角)",
     "address_en": "Alchemist Cafe (Kowloon Bay), Alchemist Cafe (Mong Kok)",
     "cover_image": "/assets/images/mission-cover/thealchemistcafe.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "thealchemistcafe",
     "video_url": "",
@@ -2089,12 +1583,11 @@
     ],
     "parameter": {
       "message_zh": "恭喜您已到達目的地。\n不是因為 GPS，而是因為您來過、站過、感受過。\n繼續前行之前，記住這一刻的存在感。",
-      "message_en": "Congratulations on reaching this destination. Not because of GPS, but because you came, stood here, and truly felt this place.",
-      "skip_gps": 1
+      "message_en": "Congratulations on reaching this destination. Not because of GPS, but because you came, stood here, and truly felt this place."
     }
   },
   {
-    "id": 23,
+    "id": 21,
     "slug": "tabletop-scenery",
     "type": "photo",
     "code": "V1",
@@ -2108,7 +1601,7 @@
     "address_zh": "牧羊少年 (銅鑼灣)、牧羊少年 (日出康城)、牧羊少年 (將軍澳香港單車館)",
     "address_en": "Alchemist Cafe (Causeway Bay), Alchemist Cafe (The LOHAS), Alchemist Cafe (Hong Kong Velodrome)",
     "cover_image": "/assets/images/mission-cover/thealchemistcafe.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "thealchemistcafe",
     "video_url": "",
@@ -2156,12 +1649,11 @@
     "parameter": {
       "message_zh": "這張照片，它記錄的不只是食物，\n還有有dayday陪您吃飯的這一刻。\n\n原來一餐之所以好味，\n有時，只是因為有人在旁。",
       "message_en": "This photo records more than food—it captures the moment of sharing a meal with dayday. Sometimes, what makes a meal enjoyable is simply having company.",
-      "image_url": "/assets/images/frames/2.png",
-      "skip_gps": 1
+      "image_url": "/assets/images/frames/2.png"
     }
   },
   {
-    "id": 24,
+    "id": 22,
     "slug": "letter-to-the-future",
     "type": "letter",
     "code": "V3",
@@ -2175,7 +1667,7 @@
     "address_zh": "牧羊少年與他的浮萍、牧羊少年 (尖沙咀)、牧羊少年 (葵芳)、牧羊少年 (大嶼山香港國際機場)",
     "address_en": "Lemna of the alchemist, Alchemist Cafe (Tsim Sha Tsui), Alchemist Cafe (Kwai Fong), Alchemist Cafe (Airport)",
     "cover_image": "/assets/images/mission-cover/thealchemistcafe.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "thealchemistcafe",
     "video_url": "",
@@ -2235,12 +1727,11 @@
     ],
     "parameter": {
       "message_zh": "這封信，\n已為您寄出，\n一年後，當文字再次出現，\n它或許會提醒您，\n曾經如何感受世界、\n又如何在其中站立。\n願這些留下的痕跡，\n成為您再次遇見自己的入口。",
-      "message_en": "Your letter has been sent. When these words reappear one year later, they may remind you how you once felt the world and how you stood within it.",
-      "skip_gps": 1
+      "message_en": "Your letter has been sent. When these words reappear one year later, they may remind you how you once felt the world and how you stood within it."
     }
   },
   {
-    "id": 25,
+    "id": 23,
     "slug": "sensory-matching-game",
     "type": "matching",
     "code": "V3",
@@ -2254,7 +1745,7 @@
     "address_zh": "牧羊少年 (沙田)、牧羊少年 (深水埗)、牧羊少年 (屯門)",
     "address_en": "Alchemist Cafe (Sha Tin), Alchemist Cafe (Sham Shui Po), Alchemist Cafe (Tuen Mun)",
     "cover_image": "/assets/images/mission-cover/thealchemistcafe.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "thealchemistcafe",
     "video_url": "",
@@ -2335,12 +1826,11 @@
           "id": 8,
           "image": "/assets/images/matching/thealchemistcafe.svg"
         }
-      ],
-      "skip_gps": 1
+      ]
     }
   },
   {
-    "id": 26,
+    "id": 24,
     "slug": "tabletop-scenery-cafe330",
     "type": "photo",
     "code": "V1",
@@ -2352,9 +1842,9 @@
     "wellness_message_zh": "有人一起吃飯，\n食物總是變得不一樣。\n\n透過 dayday 的視角，\n看看眼前這一餐的顏色、形狀與溫度。\n不用急着吃，\n先讓畫面停留一會。\n\n這一刻，\n有陪伴在桌上，\n味道自然多了一點。",
     "wellness_message_en": "When we eat with someone, food often tastes different. Through dayday’s perspective, observe the colors, shapes, and warmth of this meal. There is no rush to eat—let the image linger for a moment. With companionship at the table, the flavor naturally deepens.",
     "address_zh": "cafe330 (香港大學)、cafe330 (廣華醫院)、cafe330 (明愛醫院)",
-    "address_en": "cafe330 (HKU), cafe330 (Kwong Wah Hospital), cafe330 (Caritas Medical Centre)",
+    "address_en": "#N/A, cafe330 (Kwong Wah Hospital), cafe330 (Caritas Medical Centre)",
     "cover_image": "/assets/images/mission-cover/cafe330.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "cafe330",
     "video_url": "",
@@ -2363,7 +1853,7 @@
         "brand": "Cafe 330",
         "code": "hku",
         "name_zh": "cafe330 (香港大學)",
-        "name_en": "cafe330 (HKU)",
+        "name_en": "#N/A",
         "address_zh": "薄扶林香港大學莊月明文娛中心2樓203室",
         "address_en": "Room 203, 2/F., Chong Yuet Ming Amenities Centre, the University of Hong Kong, Pokfulam, HK",
         "max_distance": 500.0,
@@ -2402,12 +1892,11 @@
     "parameter": {
       "message_zh": "這張照片，它記錄的不只是食物，\n還有有dayday陪您吃飯的這一刻。\n\n原來一餐之所以好味，\n有時，只是因為有人在旁。",
       "message_en": "This photo records more than food—it captures the moment of sharing a meal with dayday. Sometimes, what makes a meal enjoyable is simply having company.",
-      "image_url": "/assets/images/frames/1.png",
-      "skip_gps": 1
+      "image_url": "/assets/images/frames/1.png"
     }
   },
   {
-    "id": 27,
+    "id": 25,
     "slug": "a-moment-with-day-day",
     "type": "ar",
     "code": "V3",
@@ -2421,7 +1910,7 @@
     "address_zh": "cafe330 (威爾斯親王醫院)、so330",
     "address_en": "cafe330 (Prince of Wales Hospital), so330",
     "cover_image": "/assets/images/mission-cover/so330.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "cafe330",
     "video_url": "",
@@ -2455,12 +1944,11 @@
     ],
     "parameter": {
       "message_zh": "您已完成「與 Day Day 相遇」。\n請保存這張合照，\n記住這次與 Day Day、\n以及與當下相遇的瞬間。",
-      "message_en": "You have completed “A Moment with Day Day.” Please save this photo and remember this moment of meeting dayday—and the present moment itself.",
-      "skip_gps": 1
+      "message_en": "You have completed “A Moment with Day Day.” Please save this photo and remember this moment of meeting dayday—and the present moment itself."
     }
   },
   {
-    "id": 28,
+    "id": 26,
     "slug": "checkpoint-arrival-eslite",
     "type": "reflection",
     "code": "V3",
@@ -2474,7 +1962,7 @@
     "address_zh": "誠品(荃灣)、誠品(奧運)、誠品(屯門)",
     "address_en": "Eslite (Tsuen Wan), Eslite (Olympic), Eslite (Tuen Mun)",
     "cover_image": "/assets/images/mission-cover/eslite.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "eslite",
     "video_url": "",
@@ -2521,12 +2009,11 @@
     ],
     "parameter": {
       "message_zh": "恭喜您已到達目的地。\n不是因為 GPS，而是因為您來過、站過、感受過。\n繼續前行之前，記住這一刻的存在感。",
-      "message_en": "Congratulations on reaching this destination. Not because of GPS, but because you came, stood here, and truly felt this place.",
-      "skip_gps": 1
+      "message_en": "Congratulations on reaching this destination. Not because of GPS, but because you came, stood here, and truly felt this place."
     }
   },
   {
-    "id": 29,
+    "id": 27,
     "slug": "a-moment-with-day-day-eslite",
     "type": "ar",
     "code": "V3",
@@ -2540,7 +2027,7 @@
     "address_zh": "誠品(銅鑼灣)、誠品(尖沙咀)、誠品(太古)",
     "address_en": "Eslite (Causeway Bay), Eslite (Tsim Sha Tsui), Eslite (Tai Koo)",
     "cover_image": "/assets/images/mission-cover/eslite.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "eslite",
     "video_url": "",
@@ -2587,12 +2074,11 @@
     ],
     "parameter": {
       "message_zh": "您已完成「與 Day Day 相遇」。\n請保存這張合照，\n記住這次與 Day Day、\n以及與當下相遇的瞬間。",
-      "message_en": "You have completed “A Moment with Day Day.” Please save this photo and remember this moment of meeting dayday—and the present moment itself.",
-      "skip_gps": 1
+      "message_en": "You have completed “A Moment with Day Day.” Please save this photo and remember this moment of meeting dayday—and the present moment itself."
     }
   },
   {
-    "id": 30,
+    "id": 28,
     "slug": "sensory-matching-game-eslite",
     "type": "matching",
     "code": "V3",
@@ -2606,7 +2092,7 @@
     "address_zh": "誠品(九龍塘)、誠品(啟德)、誠品(大圍)",
     "address_en": "Eslite (Kowloon Tong), Eslite (Kai Tak), Eslite (Tai Wai)",
     "cover_image": "/assets/images/mission-cover/eslite.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "eslite",
     "video_url": "",
@@ -2687,12 +2173,11 @@
           "id": 8,
           "image": "/assets/images/matching/thealchemistcafe.svg"
         }
-      ],
-      "skip_gps": 1
+      ]
     }
   },
   {
-    "id": 31,
+    "id": 29,
     "slug": "tamjai",
     "type": "tamjai",
     "code": "G4",
@@ -2706,7 +2191,7 @@
     "address_zh": "所有譚仔分店",
     "address_en": "All TamJai Shop",
     "cover_image": "/assets/images/mission-cover/tamjai.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "tamjai",
     "video_url": "",
@@ -2727,12 +2212,11 @@
     ],
     "parameter": {
       "message_zh": "您已完成五感慢食之旅\n飲食內容沒有改變，\u000b改變的是進食時的專注程度。\n",
-      "message_en": "You Have Completed the Five-Senses Dining Journey \nThe food itself hasn’t changed.\u000bWhat changed is the level of attention while eating.",
-      "skip_gps": 1
+      "message_en": "You Have Completed the Five-Senses Dining Journey \nThe food itself hasn’t changed.\u000bWhat changed is the level of attention while eating."
     }
   },
   {
-    "id": 32,
+    "id": 30,
     "slug": "samgor",
     "type": "samgor",
     "code": "G4",
@@ -2746,7 +2230,7 @@
     "address_zh": "所有三哥分店",
     "address_en": "All Samgor Shop",
     "cover_image": "/assets/images/mission-cover/samgor.svg",
-    "start_time": "2026-01-01 00:00:00",
+    "start_time": "2026-03-01 00:00:00",
     "end_time": "2026-03-31 23:59:59",
     "category": "samgor",
     "video_url": "",
@@ -2767,8 +2251,7 @@
     ],
     "parameter": {
       "message_zh": "您已完成五感慢食之旅\n飲食內容沒有改變，\u000b改變的是進食時的專注程度。\n",
-      "message_en": "You Have Completed the Five-Senses Dining Journey \nThe food itself hasn’t changed.\u000bWhat changed is the level of attention while eating.",
-      "skip_gps": 1
+      "message_en": "You Have Completed the Five-Senses Dining Journey \nThe food itself hasn’t changed.\u000bWhat changed is the level of attention while eating."
     }
   }
 ]

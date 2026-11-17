@@ -9,7 +9,10 @@ export default async function MissionsPage({ params }) {
     const response = await MissionApi.list(1, null, [], locale);
     missions = response.data || [];
   } catch (error) {
-    console.error('[MissionsPage] Failed to fetch missions:', error?.message);
+    console.warn(
+      "[MissionsPage] Failed to fetch missions:",
+      error?.code || error?.message || error,
+    );
   }
 
   return <MissionsList initialMissions={missions} />;

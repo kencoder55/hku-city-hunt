@@ -64,7 +64,7 @@ export default function MissionRecords() {
       >
         <HeaderBanner
           title={t("menu.mission_records")}
-          leftIcon="/assets/icons/success-1.svg"
+          leftIcon="/assets/icons/girl.png"
           rightIcon="/assets/icons/stamp.svg"
           backgroundColor="#A8D3C0"
           fullWidth={false}

@@ -102,7 +102,7 @@ export default function Rewards() {
         >
           <HeaderBanner
             title={t("rewards.page_title")}
-            leftIcon="/assets/icons/dr-dayday.png"
+            leftIcon="/assets/icons/doctor.png"
             rightIcon="/assets/icons/trophy.svg"
             backgroundColor="#a3a1ea"
             fullWidth={false}

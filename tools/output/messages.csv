@@ -595,7 +595,7 @@ survey.required_title,Survey Required,需要填寫問卷
 survey.first_survey_required,You have completed 3 missions! Please complete the wellbeing survey to continue playing.,您已完成 3 次任務！請填寫健康指數問卷以繼續遊玩。
 survey.second_survey_required,You have completed more than 20 missions! Please complete another wellbeing survey to continue.,您已完成超過 20 次任務！請再次填寫健康指數問卷以繼續遊玩。
 survey.go_to_survey,Go to Survey,前往問卷
-mission.mission_tips,Mindfulness Tips,靜觀小​提示​
+mission.mission_tips,Mindfulness Tips,完成獎勵
 mission.save_photo_instruction,Long press the image to save to album,長按圖片以儲存到相簿
 mission.navigate,View Route,查看路線
 mission.select_location,Select Location:,選擇地點：
@@ -618,7 +618,7 @@ mission.completed,Completed,完成
 mission.view_record_details,View Details,了解詳情
 mission.record_detail.title,Mission Completed,任務完成
 mission.record_detail.earned_stamp,Earned 1 Mission Stamp,獲得1個任務印花
-mission.record_detail.already_earned,You have already earned a stamp for this mission,此任務已經獲得過印花
+mission.record_detail.already_earned,You have already earned a stamp for this mission, 
 mission.record_detail.thank_you,-Thank you for participating-,-謝謝參與-
 mission.record_detail.view_progress,View Mission Progress,查看任務進度
 mission.record_detail.back_to_home,Back to Home,返回主頁

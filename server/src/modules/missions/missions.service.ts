@@ -15,7 +15,8 @@ export class MissionsService extends TypeOrmCrudService<Mission> {
 
   // Simple in-memory TTL cache for mission list (60 seconds)
   private missionListCache: { data: Mission[]; cachedAt: number } | null = null;
-  private readonly CACHE_TTL_MS = 60_000;
+  // private readonly CACHE_TTL_MS = 60_000;
+  private readonly CACHE_TTL_MS = 0;
 
   // Cooldown between any mission completions (regardless of which mission)
   private readonly BETWEEN_MISSIONS_COOLDOWN_SECONDS = 60 * 5; // 5 minutes

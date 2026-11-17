@@ -25,7 +25,7 @@ export default function NearbyButton({ onClick, loading = false, isFinded = fals
       >
         <Box
           component={"img"}
-          src="/assets/icons/finding-dayday.svg"
+          src="/assets/icons/finder.png"
           sx={{
             position: "absolute",
             bottom: -24,

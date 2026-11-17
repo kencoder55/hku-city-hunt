@@ -63,7 +63,7 @@ export default function WellbeingResult() {
     >
       <HeaderBanner
         title={t("title")}
-        leftIcon="/assets/icons/success-1.svg"
+        leftIcon="/assets/icons/girl.png"
         rightIcon="/assets/icons/stamp.svg"
         backgroundColor="#C88FBB"
         fullWidth

@@ -124,7 +124,8 @@ export default function AppLayout({ children }) {
               <Link href={"/"}>
                 <Box
                   component={"img"}
-                  src="/assets/icons/logo.svg"
+                  src="/assets/icons/title-logo.png"
+                  alt="DNA 校園定向"
                   sx={{ height: "100%", width: "auto" }}
                 />
               </Link>

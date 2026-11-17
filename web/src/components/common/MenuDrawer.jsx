@@ -96,7 +96,8 @@ export default function MenuDrawer({ open, onClose }) {
           >
             <Box
               component={"img"}
-              src="/assets/icons/logo.svg"
+              src="/assets/icons/title-logo.png"
+              alt="DNA 校園定向"
               sx={{
                 width: 120,
                 height: "auto",

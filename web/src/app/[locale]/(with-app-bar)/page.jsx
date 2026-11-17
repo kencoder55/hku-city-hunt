@@ -9,7 +9,10 @@ export default async function Home({ params }) {
     const response = await MissionApi.list(1, null, [], locale);
     missions = response.data || [];
   } catch (error) {
-    console.error("[Home] Failed to fetch missions:", error?.message);
+    console.warn(
+      "[Home] Failed to fetch missions:",
+      error?.code || error?.message || error,
+    );
     // Render page with empty missions rather than crashing
   }
 

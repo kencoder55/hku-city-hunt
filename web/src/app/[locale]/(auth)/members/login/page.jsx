@@ -172,8 +172,8 @@ export default function Login() {
 
         <Box
           component={"img"}
-          src="/assets/icons/logo.svg"
-          alt="NLPRA Logo"
+          src="/assets/icons/title-logo.png"
+          alt="DNA 校園定向"
           sx={{
             width: 200,
             maxWidth: "100%",

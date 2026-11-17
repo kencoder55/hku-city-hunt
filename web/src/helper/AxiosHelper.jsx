@@ -42,20 +42,22 @@ const axios = () => {
       return response;
     },
     function (error) {
-      console.log(error);
       const statusCode = error?.response?.status;
+      const message =
+        error?.response?.data?.message || error?.message || "Unknown error";
 
       if (statusCode === 401 || statusCode === 403) {
-        if (typeof window === "undefined") return;
-
-        deleteCookie(KEY);
-        window.location.href = `/members/login?redirect=${window.location.pathname}`;
+        if (typeof window !== "undefined") {
+          deleteCookie(KEY);
+          window.location.href = `/members/login?redirect=${window.location.pathname}`;
+        }
       }
 
-      return Promise.reject({
-        ...error,
-        message: error?.response?.data?.message || error?.message || "Unknown error",
-      });
+      const wrapped = new Error(message);
+      wrapped.code = error?.code;
+      wrapped.status = statusCode;
+      wrapped.cause = error;
+      return Promise.reject(wrapped);
     },
   );
 

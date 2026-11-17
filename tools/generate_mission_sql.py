@@ -15,6 +15,8 @@ class MissionDataGenerator:
     # Cover image mapping by brand
     COVER_IMAGE_MAP = {
         'mtr': '/assets/images/mission-cover/mtr.svg',
+        'hku1': '/assets/images/mission-cover/hku-1.svg',
+        'hku2': '/assets/images/mission-cover/hku-2.svg',
         'mtrmall': '/assets/icons/mtr-mall.png',
         'thealchemistcafe': '/assets/images/mission-cover/thealchemistcafe.svg',
         'eslite': '/assets/images/mission-cover/eslite.svg',
@@ -38,6 +40,10 @@ class MissionDataGenerator:
             return 'mtrmall'
         elif(brand == 'MTR'):
             return 'mtr'
+        elif(brand == 'HKU1'):
+            return 'hku1'
+        elif(brand == 'HKU2'):
+            return 'hku2'
         elif(brand == '誠品'):
             return 'eslite'
         elif(brand == '牧羊少年'):
@@ -481,12 +487,12 @@ def main():
     output_path.mkdir(exist_ok=True)
     
     # Load supporting data
-    generator.load_location_data(source_path / '330event-location-data.csv')
+    generator.load_location_data(source_path / 'hku-location-data.csv')
     generator.load_quiz_data(source_path / '330event-quiz-data.csv')
     generator.load_cards_data(source_path / 'cards.json')
     
     # Process mission data
-    missions = generator.process_mission_data(source_path / '330event-mission-data.csv')
+    missions = generator.process_mission_data(source_path / 'hku-mission-data.csv')
     
     # Generate outputs
     if missions:

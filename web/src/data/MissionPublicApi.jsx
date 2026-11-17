@@ -56,7 +56,8 @@ const list = async (page, pageSize, filters, locale) => {
       "Accept-Language": locale || "en",
     },
     next: {
-      revalidate: 3600, // revalidate cache every 60 minutes
+      // revalidate: 3600, // revalidate cache every 60 minutes
+      noStore: true,
       tags: ["missions"],
     },
   });
